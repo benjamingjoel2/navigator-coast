@@ -5,7 +5,7 @@ pubDate: 2026-11-11
 updatedDate: 2026-11-11
 categories: [travel-tips]
 regions: [lisbon, porto-douro, alentejo, algarve, centro, madeira, azores]
-heroAlt: "TBD"
+heroAlt: "Yellow wildflowers in the foreground and terraced vineyards on the hills of the Douro Valley under a cloudy spring sky"
 sources:
   - title: "IPMA: Área educativa – Clima de Portugal Continental"
     url: "https://www.ipma.pt/pt/educativa/tempo.clima/"

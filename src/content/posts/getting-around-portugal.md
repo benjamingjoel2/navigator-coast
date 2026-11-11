@@ -5,7 +5,7 @@ pubDate: 2026-11-11
 updatedDate: 2026-11-11
 categories: [travel-tips]
 regions: [lisbon, porto-douro, alentejo, algarve, madeira, azores]
-heroAlt: "TBD"
+heroAlt: "A red and white Alfa Pendular train waiting at a platform at Lisbon Santa Apolónia station under an overcast sky"
 sources:
   - title: "CP: Alfa Pendular"
     url: "https://www.cp.pt/info/en/alfa-pendular-train"
