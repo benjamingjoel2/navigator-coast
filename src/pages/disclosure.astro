@@ -1,0 +1,20 @@
+---
+import Page from '../components/Page.astro';
+import { OPERATOR } from '../data/site';
+---
+<Page title="Disclosure" path="/disclosure/" description="How Navigator Coast is funded, how it relates to Tourground and the operators in its directory, and how paid content is labelled."
+  sources={[
+    { title: 'Tourground: plans and FAQ', url: 'https://tourground.com/' },
+    { title: 'Google Search Central: Qualify your outbound links', url: 'https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links' },
+  ]}>
+  <h2>Publisher</h2>
+  <p>Navigator Coast is published by Tourground. Tourground works with travel companies and earns money from paid plans sold to them. Some travel brands are owned by Tourground's founders.</p>
+  <h2>The “Plan this trip” box</h2>
+  <p>Every post ends with a “Plan this trip” box linking to a local operator listed in the Tourground directory. At launch, the Portugal operator listed there is <a href={OPERATOR.url}>{OPERATOR.name}</a>, which plans stays of one to twelve months. The box is part of how Tourground runs this site; it is not a review, a ranking or a guarantee. Check any company yourself before you pay, including its registration with Turismo de Portugal.</p>
+  <h2>Editorial independence</h2>
+  <p>Stories are written to be useful to travellers. No company pays to be mentioned in a story, and we do not name or recommend specific hotels, restaurants or tour companies in our editorial text.</p>
+  <h2>Advertising</h2>
+  <p>If we ever publish paid content, it will be labelled “Advertisement feature” at the top of the page and on every card that links to it, shown on a separate coloured background, and its links will carry <code>rel="sponsored"</code>.</p>
+  <h2>Links</h2>
+  <p>Links in the “Sources” list at the end of each story are citations and are marked <code>nofollow</code>.</p>
+</Page>

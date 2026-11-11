@@ -1,0 +1,17 @@
+---
+import { OPERATOR, PLAN_LINKS, SITE } from '../data/site';
+interface Props { slug: string }
+const links = PLAN_LINKS[Astro.props.slug] ?? [];
+---
+<aside class="plan" aria-labelledby="plan-h">
+  <h2 id="plan-h">Plan this trip</h2>
+  <p>When you are ready to book, go through a local operator rather than a stranger online. <a href={OPERATOR.url}>{OPERATOR.name}</a> is the Portugal operator listed in the <a href={SITE.directoryUrl}>Tourground directory</a>.</p>
+  <p>{OPERATOR.summary}</p>
+  {links.length > 0 && (
+    <ul>
+      {links.map((l) => <li><a class="pill" href={`${OPERATOR.url}${l.path}`}>{l.label} with {OPERATOR.name}</a></li>)}
+    </ul>
+  )}
+  <p>Before you pay anyone, ask for the company's registration number with Turismo de Portugal and a written confirmation of what you are paying for. Our <a href="/disclosure/">disclosure</a> explains how Navigator Coast and Tourground are connected.</p>
+  <p class="fine">This box is not paid for and is not an endorsement or a review.</p>
+</aside>

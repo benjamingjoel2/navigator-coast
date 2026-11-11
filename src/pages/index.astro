@@ -1,0 +1,66 @@
+---
+import { Image } from 'astro:assets';
+import Base from '../layouts/Base.astro';
+import Card from '../components/Card.astro';
+import Newsletter from '../components/Newsletter.astro';
+import { allPosts, postPath, START_HERE, FEATURED } from '../data/posts';
+import { photoByKey, photoFile } from '../data/photos';
+import { SITE, CATEGORIES, REGIONS, categoryByKey, fmtDate, isoDate, readingTime } from '../data/site';
+
+const posts = await allPosts();
+const featured = posts.find((p) => p.id === FEATURED) ?? posts[0];
+const latest = posts.filter((p) => p.id !== featured.id).slice(0, 6);
+const start = START_HERE.map((id) => posts.find((p) => p.id === id)).filter(Boolean);
+const photo = photoByKey(featured.id);
+const ld = [{
+  '@type': 'CollectionPage', '@id': `${SITE.url}/#home`, url: `${SITE.url}/`, name: SITE.name, description: SITE.description,
+  isPartOf: { '@id': `${SITE.url}/#website` }, publisher: { '@id': `${SITE.url}/#publisher` },
+  mainEntity: { '@type': 'ItemList', itemListElement: posts.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: new URL(postPath(p), SITE.url).href, name: p.data.title })) },
+}];
+---
+<Base title={SITE.name} description={SITE.description} path="/" overlayHeader extraLd={ld}>
+  <section class="hero" aria-labelledby="feat-h">
+    <Image src={photoFile(featured.id)} alt={featured.data.heroAlt} widths={[640, 960, 1400, 2000]} sizes="100vw" loading="eager" fetchpriority="high" />
+    <div class="wrap inner">
+      <ul class="pills" aria-label="Categories">
+        <li><span class="pill light">Featured story</span></li>
+        {featured.data.categories.map((c) => { const k = categoryByKey(c); return <li><a class="pill light" href={k.path}>{k.name}</a></li>; })}
+      </ul>
+      <h1 id="feat-h" class="h1"><a href={postPath(featured)}>{featured.data.title}</a></h1>
+      <p>{featured.data.description}</p>
+      <p class="meta">By {SITE.editor} · <time datetime={isoDate(featured.data.pubDate)}>{fmtDate(featured.data.pubDate)}</time> · {readingTime(featured.body)} min read</p>
+    </div>
+    <p class="credit">Photo: {photo.author}, <a href={photo.licenceUrl}>{photo.licence}</a></p>
+  </section>
+
+  <section class="mission" aria-label="About Navigator Coast">
+    <div class="wrap">
+      <p>Portugal, told story first: where to go, when to go, what to eat and how to book it safely.</p>
+      <a class="btn" href="#newsletter">Join the letter</a>
+    </div>
+  </section>
+
+  <section class="section wrap" aria-labelledby="latest-h">
+    <div class="section-head"><h2 id="latest-h">Latest</h2><a href="/stories/">All stories</a></div>
+    <ul class="grid">{latest.map((p, i) => <li><Card post={p} eager={i < 1} /></li>)}</ul>
+  </section>
+
+  <section class="start" aria-labelledby="start-h">
+    <div class="wrap">
+      <h2 id="start-h">Start here</h2>
+      <p class="lead">First trip to Portugal? Read these four in order: the lie of the land, the seasons, how to get around, and a route that ties it together.</p>
+      <ol>{start.map((p) => <li><a href={postPath(p!)}>{p!.data.title}</a></li>)}</ol>
+    </div>
+  </section>
+
+  <section class="section wrap" aria-labelledby="cat-h">
+    <div class="section-head"><h2 id="cat-h">Browse by category</h2></div>
+    <ul class="tiles">
+      {CATEGORIES.map((c) => <li class="tile"><h3><a href={c.path}>{c.name}</a></h3><p>{c.blurb}</p></li>)}
+    </ul>
+    <h3 style="font-size:1.25rem;margin:32px 0 0">Destinations</h3>
+    <ul class="chips">{REGIONS.map((r) => <li><a href={r.path}>{r.name}</a></li>)}</ul>
+  </section>
+
+  <div id="newsletter"><Newsletter /></div>
+</Base>

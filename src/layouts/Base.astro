@@ -1,0 +1,157 @@
+---
+import '../styles/global.css';
+import { SITE, CATEGORIES, REGIONS } from '../data/site';
+
+interface Crumb { name: string; path: string }
+interface Props {
+  title: string;
+  description: string;
+  path: string;
+  crumbs?: Crumb[];
+  image?: string;
+  ogType?: 'website' | 'article';
+  extraLd?: Record<string, unknown>[];
+  overlayHeader?: boolean;
+  noindex?: boolean;
+}
+const { title, description, path, crumbs = [], image, ogType = 'website', extraLd = [], overlayHeader = false, noindex = false } = Astro.props;
+const canonical = new URL(path, SITE.url).href;
+const fullTitle = path === '/' ? `${SITE.name}: travel stories and practical guides for Portugal` : `${title} | ${SITE.name}`;
+const ogImage = image ? new URL(image, SITE.url).href : new URL('/og.jpg', SITE.url).href;
+
+const orgId = `${SITE.url}/#publisher`;
+const siteId = `${SITE.url}/#website`;
+const allCrumbs = [{ name: 'Home', path: '/' }, ...crumbs];
+const ld = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'Organization', '@id': orgId, name: SITE.publisher.name, url: SITE.publisher.url, email: SITE.email },
+    {
+      '@type': 'WebSite', '@id': siteId, name: SITE.name, url: `${SITE.url}/`, description: SITE.description,
+      inLanguage: 'en', publisher: { '@id': orgId },
+    },
+    {
+      '@type': 'BreadcrumbList', '@id': `${canonical}#breadcrumb`,
+      itemListElement: allCrumbs.map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: new URL(c.path, SITE.url).href })),
+    },
+    ...extraLd,
+  ],
+};
+const current = Astro.url.pathname;
+---
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  {noindex && <meta name="robots" content="noindex" />}
+  <link rel="preload" href="/inter-latin-wght.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="alternate" type="application/rss+xml" title={`${SITE.name} RSS`} href="/rss.xml" />
+  <link rel="sitemap" href="/sitemap-index.xml" />
+  <meta name="theme-color" content="#111111" />
+  <meta property="og:site_name" content={SITE.name} />
+  <meta property="og:type" content={ogType} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:locale" content="en_GB" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json" set:html={JSON.stringify(ld)} />
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class:list={['site-header', { over: overlayHeader }]}>
+    <div class="wrap bar">
+      <button class="menu-btn" type="button" aria-expanded="false" aria-controls="nav-panel" id="menu-btn">Menu</button>
+      <a class="wordmark" href="/" aria-label={`${SITE.name}, home`}>Navigator Coast</a>
+      <a class="header-link" href="/about/">About</a>
+    </div>
+    <nav class="nav-panel" id="nav-panel" aria-label="Main">
+      <div class="wrap">
+        <ul>
+          {CATEGORIES.map((c) => (
+            <li>
+              <a href={c.path}>{c.name}</a>
+              {c.key === 'destinations' && (
+                <ul class="sub">
+                  {REGIONS.map((r) => <li><a href={r.path}>{r.name}</a></li>)}
+                </ul>
+              )}
+            </li>
+          ))}
+          <li><a href="/stories/">All stories</a></li>
+          <li><a href="/about/">About Navigator Coast</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+  {!overlayHeader && (
+    <nav class="cat-strip" aria-label="Categories">
+      <ul>
+        {CATEGORIES.map((c) => <li><a href={c.path} aria-current={current.startsWith(c.path) ? 'page' : undefined}>{c.name}</a></li>)}
+      </ul>
+    </nav>
+  )}
+  <main id="main">
+    <slot />
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <a class="wordmark" href="/">Navigator Coast</a>
+      <div class="foot-grid">
+        <div>
+          <p class="pub">Story-led, practical travel writing for planning a trip to Portugal. Every practical fact links its source and every post shows when it was last updated.</p>
+          <p><strong>Published by Tourground.</strong> <a href={SITE.publisher.url}>tourground.com</a></p>
+          <p><a href={`mailto:${SITE.email}`}>{SITE.email}</a></p>
+        </div>
+        <div>
+          <h2>Read</h2>
+          <ul>
+            {CATEGORIES.map((c) => <li><a href={c.path}>{c.name}</a></li>)}
+            <li><a href="/stories/">All stories</a></li>
+          </ul>
+        </div>
+        <div>
+          <h2>Destinations</h2>
+          <ul>{REGIONS.map((r) => <li><a href={r.path}>{r.name}</a></li>)}</ul>
+        </div>
+        <div>
+          <h2>About</h2>
+          <ul>
+            <li><a href="/about/">About</a></li>
+            <li><a href="/authors/">Authors</a></li>
+            <li><a href="/disclosure/">Disclosure</a></li>
+            <li><a href="/photo-credits/">Photo credits</a></li>
+            <li><a href="/privacy/">Privacy</a></li>
+            <li><a href="/cookies/">Cookies</a></li>
+            <li><a href="/terms/">Terms</a></li>
+            <li><a href="/rss.xml">RSS feed</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="legal">
+        <span>Navigator Coast · navigatorcoast.tourground.com · Published by Tourground</span>
+        <span>Paid placements, if any, are labelled “Advertisement feature”.</span>
+      </div>
+    </div>
+  </footer>
+  <script>
+    const btn = document.getElementById('menu-btn');
+    const panel = document.getElementById('nav-panel');
+    btn?.addEventListener('click', () => {
+      const open = btn.getAttribute('aria-expanded') === 'true';
+      btn.setAttribute('aria-expanded', String(!open));
+      btn.textContent = open ? 'Menu' : 'Close';
+      panel?.classList.toggle('open', !open);
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && btn?.getAttribute('aria-expanded') === 'true') { btn.click(); btn.focus(); }
+    });
+  </script>
+</body>
+</html>

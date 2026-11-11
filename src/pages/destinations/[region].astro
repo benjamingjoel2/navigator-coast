@@ -1,0 +1,13 @@
+---
+import Listing from '../../components/Listing.astro';
+import { allPosts } from '../../data/posts';
+import { REGIONS } from '../../data/site';
+export async function getStaticPaths() {
+  return REGIONS.map((r) => ({ params: { region: r.path.split('/')[2] }, props: { region: r } }));
+}
+const { region } = Astro.props;
+const posts = (await allPosts()).filter((p) => p.data.regions.includes(region.key));
+---
+<Listing title={region.name} intro={region.blurb} path={region.path} posts={posts}
+  crumbs={[{ name: 'Destinations', path: '/destinations/' }, { name: region.name, path: region.path }]}
+  chips={REGIONS.map((r) => ({ name: r.name, path: r.path, current: r.key === region.key }))} chipsLabel="Regions" />

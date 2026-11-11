@@ -1,0 +1,11 @@
+---
+import Listing from '../components/Listing.astro';
+import { allPosts } from '../data/posts';
+import { CATEGORIES, REGIONS } from '../data/site';
+export async function getStaticPaths() {
+  return CATEGORIES.filter((c) => c.key !== 'destinations').map((c) => ({ params: { category: c.path.slice(1, -1) }, props: { cat: c } }));
+}
+const { cat } = Astro.props;
+const posts = (await allPosts()).filter((p) => p.data.categories.includes(cat.key));
+---
+<Listing title={cat.name} intro={cat.blurb} path={cat.path} posts={posts} crumbs={[{ name: cat.name, path: cat.path }]} />
