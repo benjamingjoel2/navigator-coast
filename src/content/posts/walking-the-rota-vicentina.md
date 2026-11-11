@@ -5,7 +5,7 @@ pubDate: 2026-11-11
 updatedDate: 2026-11-11
 categories: [walking-coast, destinations]
 regions: [alentejo, algarve]
-heroAlt: "TBD"
+heroAlt: "The white houses of Odeceixe climbing a green hillside under a windmill, near the Rota Vicentina on Portugal's southwest coast"
 sources:
   - title: "Rota Vicentina: Fishermen's Trail"
     url: "https://rotavicentina.com/en/fishermens-trail/"

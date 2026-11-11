@@ -5,7 +5,7 @@ pubDate: 2026-11-11
 updatedDate: 2026-11-11
 categories: [food-wine]
 regions: [porto-douro, centro, lisbon, alentejo, algarve, madeira, azores]
-heroAlt: "TBD"
+heroAlt: "A tray of freshly baked pastéis de nata with caramelised tops in a bakery window"
 sources:
   - title: "European Commission eAmbrosia: Ovos Moles de Aveiro (PGI)"
     url: "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000013759"
