@@ -5,7 +5,7 @@ pubDate: 2026-11-11
 updatedDate: 2026-11-11
 categories: [destinations, where-to-stay]
 regions: [azores, madeira]
-heroAlt: "TBD"
+heroAlt: "The Sete Cidades crater lake on São Miguel in the Azores, ringed by green volcanic slopes and the village fields on its shore"
 sources:
   - title: "IPMA: Normal Climatológica – Funchal 1991-2020"
     url: "https://www.ipma.pt/bin/file.data/climate-normal/cn_91-20_FUNCHAL.pdf"
