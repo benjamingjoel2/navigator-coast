@@ -1,0 +1,38 @@
+[
+  {
+    "id": "veg-caldo-verde",
+    "alt": "A bowl of caldo verde, a pale potato soup with shredded kale and a slice of chouriço in the middle, with a spoon beside it",
+    "author": "Pasquale Paolo Cardo",
+    "source": "https://commons.wikimedia.org/wiki/File:Caldo_verde_(33228722492).jpg",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "place": "Lisbon: caldo verde"
+  },
+  {
+    "id": "veg-bolhao-hall",
+    "alt": "The restored Mercado do Bolhão seen from the upper level, with stalls under pitched roofs in the central courtyard and galleries on two floors",
+    "author": "Juan Gomez",
+    "source": "https://unsplash.com/photos/E3Oe3mBpmKA",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Porto: Mercado do Bolhão"
+  },
+  {
+    "id": "veg-lisbon-carrots",
+    "alt": "Bunches of carrots and a few beetroot on hessian, lit by a shaft of sunlight against a dark background",
+    "author": "Aleksandr Zaitsev",
+    "source": "https://unsplash.com/photos/Gqp8_pJzP3U",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: carrots in the sun"
+  },
+  {
+    "id": "veg-lisbon-salad",
+    "alt": "A plate of watercress, roasted cherry tomatoes and radish on toast, with coffees and other plates behind on a café table",
+    "author": "Iulia Topan",
+    "source": "https://unsplash.com/photos/g5tnCHIU5ks",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: a vegetable plate at a café"
+  }
+]

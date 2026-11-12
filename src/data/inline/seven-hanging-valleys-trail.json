@@ -1,0 +1,47 @@
+[
+  {
+    "id": "svs-cliff-path",
+    "alt": "A dusty clifftop path between green scrub leading towards ochre limestone sea stacks and a grey sea",
+    "author": "Ana Rey from Sevilla, España",
+    "source": "https://commons.wikimedia.org/wiki/File:Ruta_dos_Sete_Vales_Suspensos_(50601523661).jpg",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "place": "Algarve: Seven Hanging Valleys trail"
+  },
+  {
+    "id": "svs-carvalho-cove",
+    "alt": "A sheer cliff of layered yellow limestone with scrub on top, dropping into calm green sea",
+    "author": "Ana Rey from Sevilla, España",
+    "source": "https://commons.wikimedia.org/wiki/File:Praia_do_Carvalho_Ruta_dos_Sete_Vales_Suspensos_(50600775998).jpg",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "place": "Algarve: cliffs near Praia do Carvalho"
+  },
+  {
+    "id": "svs-waymark",
+    "alt": "A yellow and red painted waymark on a limestone rock beside a dusty path, with a fan palm above",
+    "author": "Ana Rey from Sevilla, España",
+    "source": "https://commons.wikimedia.org/wiki/File:Ruta_dos_Sete_Vales_Suspensos_(50600780413).jpg",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "place": "Algarve: waymark on the Seven Hanging Valleys trail"
+  },
+  {
+    "id": "svs-benagil-street",
+    "alt": "A row of low whitewashed houses with green and blue painted trim and shutters along a cobbled street in Benagil",
+    "author": "Ana Rey from Sevilla, España",
+    "source": "https://commons.wikimedia.org/wiki/File:Playa_de_Benagil_Ruta_dos_Sete_Vales_Suspensos_(50601634992).jpg",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "place": "Algarve: Benagil village"
+  },
+  {
+    "id": "svs-marinha-shore",
+    "alt": "Ochre limestone stacks and fallen boulders along the sand at Praia da Marinha, with waves washing in under a cloudy sky",
+    "author": "erikccooper from Chicago",
+    "source": "https://commons.wikimedia.org/wiki/File:Praia_da_Marinha,_Lagoa,_Algarve_(48415168222).jpg",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "place": "Algarve: Praia da Marinha"
+  }
+]

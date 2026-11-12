@@ -1,0 +1,56 @@
+[
+  {
+    "id": "pf-horta-from-ferry",
+    "alt": "Horta's colourful waterfront houses and a large white church, seen through a ferry porthole across choppy grey sea",
+    "author": "Joshua Kettle",
+    "source": "https://unsplash.com/photos/H_ObsOs4DuY",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Faial: Horta from the ferry"
+  },
+  {
+    "id": "pf-horta-marina",
+    "alt": "Overhead aerial view of Horta marina, with rows of yachts moored along pontoons inside a curving stone breakwater",
+    "author": "Jan Bachor",
+    "source": "https://unsplash.com/photos/ANBFSSy8TYE",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Faial: Horta marina"
+  },
+  {
+    "id": "pf-capelinhos-centre",
+    "alt": "The old stone lighthouse at Capelinhos standing above a concrete ramp that leads down into the lit entrance of the volcano interpretation centre, on dark volcanic ground",
+    "author": "Joshua Kettle",
+    "source": "https://unsplash.com/photos/peH3M0Y54FU",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Faial: Capelinhos lighthouse and interpretation centre"
+  },
+  {
+    "id": "pf-pico-summit-cloud",
+    "alt": "The dark cone of Mount Pico rising above a band of white cloud, with wispy cloud in a blue sky and dense green vegetation in the foreground",
+    "author": "Diogo Ferrer",
+    "source": "https://unsplash.com/photos/T-DiwEli-9c",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Pico: Mount Pico"
+  },
+  {
+    "id": "pf-currais-rock",
+    "alt": "Low walls of rough black volcanic stone enclosing vineyard plots on a slope, with green hills and blue sky behind",
+    "author": "Jetsettr20",
+    "source": "https://commons.wikimedia.org/wiki/File:Volcanic_rock_used_in_the_making_of_currais_for_growing_grapes_in_S%C3%A3o_Mateus.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "Pico: vineyard walls at São Mateus"
+  },
+  {
+    "id": "pf-currais-mountain",
+    "alt": "A red dirt track running between walls of black volcanic stone that enclose vineyard plots, with the green slopes and summit of Mount Pico rising behind",
+    "author": "Jetsettr20",
+    "source": "https://commons.wikimedia.org/wiki/File:Currais_of_S%C3%A3o_Mateus_looking_NE_toward_Mt._Pico.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "Pico: currais at São Mateus"
+  }
+]
