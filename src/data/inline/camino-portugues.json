@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cp-vila-do-conde-chapel",
+    "alt": "A small white chapel with a stone doorway and bell on a paved square in a coastal town",
+    "author": "Isabella Mann Machado",
+    "source": "https://unsplash.com/photos/MeEwCUFzMHw",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Vila do Conde: a chapel on the coastal route"
+  },
+  {
+    "id": "cp-vila-do-conde-shore",
+    "alt": "Small waves washing over dark rocks onto a sandy beach under a grey sky",
+    "author": "Isabella Mann Machado",
+    "source": "https://unsplash.com/photos/GkT6YV0HZ0c",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Vila do Conde: the shore"
+  },
+  {
+    "id": "cp-valenca-walls",
+    "alt": "A thick stone fortress wall with a corner watchtower, a grassy moat and trees beyond",
+    "author": "Natalia Gusakova",
+    "source": "https://unsplash.com/photos/6N2g6o2jQso",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Valença: the fortress walls"
+  },
+  {
+    "id": "cp-galicia-waymark",
+    "alt": "A granite Camino marker with a yellow scallop shell on blue and a yellow arrow, among ferns",
+    "author": "Gianmarco Avigni",
+    "source": "https://unsplash.com/photos/81QZ6fCjVNM",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Galicia: a Camino waymark"
+  },
+  {
+    "id": "cp-santiago-towers",
+    "alt": "The twin baroque towers of Santiago cathedral rising above a stone stairway against a pale sky",
+    "author": "Laszlo Oveges",
+    "source": "https://unsplash.com/photos/IDbbh1yfIuk",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Santiago de Compostela: the cathedral towers"
+  },
+  {
+    "id": "cp-santiago-obradoiro",
+    "alt": "The ornate baroque west front of Santiago de Compostela cathedral under a pink and violet evening sky",
+    "author": "snap wander",
+    "source": "https://unsplash.com/photos/9vSyHeY_gWI",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Santiago de Compostela: the cathedral façade"
+  }
+]
