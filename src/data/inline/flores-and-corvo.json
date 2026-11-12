@@ -1,0 +1,56 @@
+[
+  {
+    "id": "flco-coast-cliffs",
+    "alt": "Dark rocky coastline of Flores with surf breaking below green cliffs and cloud-covered hills",
+    "author": "Manoa Angelo",
+    "source": "https://unsplash.com/photos/9L-3tU1VeQM",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Flores: the rocky coast"
+  },
+  {
+    "id": "flco-waterfall",
+    "alt": "A thin waterfall dropping down a steep green and grey cliff above a few houses on Flores",
+    "author": "Manoa Angelo",
+    "source": "https://unsplash.com/photos/8PieQ8VlMlg",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Flores: a waterfall on the cliffs"
+  },
+  {
+    "id": "flco-town-coast",
+    "alt": "Houses spread across green fields on a coastal plain of Flores, with a grey sea and surf beyond",
+    "author": "Manoa Angelo",
+    "source": "https://unsplash.com/photos/v2U1xKoV0zQ",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Flores: houses by the sea"
+  },
+  {
+    "id": "flco-corvo-windmill",
+    "alt": "A small white stone windmill with wooden sails on the shore at Vila do Corvo at dusk, with the sea behind",
+    "author": "Ellienore B.",
+    "source": "https://unsplash.com/photos/URFzHEvW_Pw",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Corvo: windmill at Vila do Corvo"
+  },
+  {
+    "id": "flco-corvo-caldeirao",
+    "alt": "Green slopes and the rim of a volcanic crater on Corvo under thick low cloud",
+    "author": "Manoa Angelo",
+    "source": "https://unsplash.com/photos/nHQkkm9DUa0",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Corvo: the Caldeirão rim"
+  },
+  {
+    "id": "flco-corvo-village",
+    "alt": "White houses on a green hillside at Vila do Corvo below a brown volcanic slope",
+    "author": "Ellienore B.",
+    "source": "https://unsplash.com/photos/fWg0azq3L8c",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Corvo: Vila do Corvo"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "pg-hills",
+    "alt": "A wide panorama of rounded granite mountains and scrub-covered ridges under a clear sky",
+    "author": "Pedro Cunha",
+    "source": "https://unsplash.com/photos/ZHbMI9la0P4",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Peneda-Gerês: mountain ridges"
+  },
+  {
+    "id": "pg-valley",
+    "alt": "A rocky river running between steep wooded slopes, with a mountain peak and clouds behind",
+    "author": "João Rodrigues",
+    "source": "https://unsplash.com/photos/w6RHDTw8jE0",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Peneda-Gerês: river valley"
+  },
+  {
+    "id": "pg-stream",
+    "alt": "Clear green water flowing between large rounded granite boulders, with trees overhead",
+    "author": "Andreia Cunha",
+    "source": "https://unsplash.com/photos/XrWcIKRv1K4",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Peneda-Gerês: mountain stream"
+  },
+  {
+    "id": "pg-lindoso",
+    "alt": "Aerial view of rows of small granite granaries on stone legs, with a village and green fields beyond",
+    "author": "Chico Ferreira de Almeida",
+    "source": "https://unsplash.com/photos/gmJchWEu1hE",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Peneda-Gerês: the granaries of Lindoso"
+  },
+  {
+    "id": "pg-house",
+    "alt": "Terracotta roofs and roofless granite walls of village houses, with green hills stretching to the horizon",
+    "author": "Álvaro MONTANHA",
+    "source": "https://unsplash.com/photos/uT6UgQe-F58",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Peneda-Gerês: mountain village"
+  },
+  {
+    "id": "pg-fog",
+    "alt": "Low grey cloud drifting over steep slopes covered in dense pine forest",
+    "author": "João Rodrigues",
+    "source": "https://unsplash.com/photos/K4hGFZwdN8Y",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Peneda-Gerês: cloud over the Serra do Gerês"
+  }
+]

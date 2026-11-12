@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tavira-river-boat",
+    "alt": "A small wooden boat reflected in the still river in Tavira, with white houses on the far bank",
+    "author": "Ivo Sousa Martins",
+    "source": "https://unsplash.com/photos/zpC_MjIoO2Y",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Tavira: boat on the river"
+  },
+  {
+    "id": "tavira-santa-maria",
+    "alt": "The white bell tower and clock of the church of Santa Maria do Castelo in Tavira against a blue sky",
+    "author": "heino eisner",
+    "source": "https://unsplash.com/photos/N_kq_r901aE",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Tavira: Santa Maria do Castelo"
+  },
+  {
+    "id": "tavira-bell-tower",
+    "alt": "A white church bell tower rising above tiled roofs in Tavira at dusk",
+    "author": "Richard James",
+    "source": "https://unsplash.com/photos/ECOo0F0rlSk",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Tavira: bell tower at dusk"
+  },
+  {
+    "id": "tavira-castle-garden",
+    "alt": "Pink bougainvillea spilling over the crenellated stone walls of Tavira castle",
+    "author": "Phi",
+    "source": "https://unsplash.com/photos/5bPz2vE73Do",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Tavira: the castle garden"
+  },
+  {
+    "id": "tavira-ria-formosa",
+    "alt": "Aerial view of a long footbridge crossing the lagoon and salt marsh of the Ria Formosa to a barrier island",
+    "author": "Markus Kammermann",
+    "source": "https://unsplash.com/photos/gOPuoDfnHGk",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Ria Formosa: lagoon and barrier island"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "lagos-old-town-street",
+    "alt": "A narrow cobbled street in Lagos old town, lined with pale houses with iron balconies and shuttered windows",
+    "author": "Vini Andrade",
+    "source": "https://unsplash.com/photos/jgcgOy1Lmro",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lagos: old town street"
+  },
+  {
+    "id": "lagos-tiled-facade",
+    "alt": "A green tiled building on a square in central Lagos, with yellow flowers in the foreground",
+    "author": "Max Zed",
+    "source": "https://unsplash.com/photos/j8p4c4y6bUQ",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lagos: Praça Luís de Camões"
+  },
+  {
+    "id": "lagos-piedade-stairs",
+    "alt": "Stone steps winding down golden cliffs to turquoise water and small boats at Ponta da Piedade",
+    "author": "KOBU Agency",
+    "source": "https://unsplash.com/photos/DgXmuW8OqTE",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lagos: steps at Ponta da Piedade"
+  },
+  {
+    "id": "lagos-camilo-cove",
+    "alt": "Prickly pear cactus in the foreground above a small sandy cove and blue sea near Ponta da Piedade",
+    "author": "Mathilde Ro",
+    "source": "https://unsplash.com/photos/jjLjtkuin84",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lagos: cove on the Ponta da Piedade road"
+  },
+  {
+    "id": "lagos-cliffs-sunset",
+    "alt": "Low sun over the sea and a line of cliffs on the coast near Lagos, with a small boat offshore",
+    "author": "Miguel Almeida",
+    "source": "https://unsplash.com/photos/vjC77fkKJRY",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lagos: cliffs at sunset"
+  }
+]
