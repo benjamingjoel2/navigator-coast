@@ -1,0 +1,38 @@
+[
+  {
+    "id": "hlth-lifebuoy",
+    "alt": "A red and white lifebuoy marked Lifeguard on a pole on a sandy beach, with straw parasols and a cliff topped by houses behind",
+    "author": "Timur Seyfelmlyukov",
+    "source": "https://unsplash.com/photos/xuy1hRXSYLc",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Mafra coast: Praia de São Lourenço"
+  },
+  {
+    "id": "hlth-albufeira-rockfall",
+    "alt": "A red Perigo Danger rockfall warning sign above a wide sandy beach with parasols and the white town of Albufeira beyond",
+    "author": "Rafael Padeiro",
+    "source": "https://unsplash.com/photos/7XjMYt0uuzw",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Algarve: beach below Albufeira"
+  },
+  {
+    "id": "hlth-madeira-cliffs",
+    "alt": "Steep green cliffs and sea stacks dropping into deep blue water along Madeira's north coast",
+    "author": "Jan Tokarczyk",
+    "source": "https://unsplash.com/photos/ddmxivBrpAQ",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Madeira: the north coast"
+  },
+  {
+    "id": "hlth-azores-trail",
+    "alt": "A wooden-railed path with log steps climbing a grassy ridge into mist in the Azores",
+    "author": "Anne Zwickermann",
+    "source": "https://unsplash.com/photos/UnFzwayxasM",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Azores: a ridge trail in mist"
+  }
+]

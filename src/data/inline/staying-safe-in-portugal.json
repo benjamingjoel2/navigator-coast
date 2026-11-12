@@ -1,0 +1,47 @@
+[
+  {
+    "id": "saf-elevador-da-bica",
+    "alt": "A yellow funicular car on its rails at the bottom of a steep, narrow street lined with old buildings in Lisbon",
+    "author": "André Lergier",
+    "source": "https://unsplash.com/photos/anrBiSm4iFQ",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: Elevador da Bica"
+  },
+  {
+    "id": "saf-barra-lifebuoy",
+    "alt": "A red and white lifebuoy hanging on a pole with a small red flag on a sandy beach under a blue sky",
+    "author": "Gustavo Miguel",
+    "source": "https://unsplash.com/photos/fhQFhNvB3Qg",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Aveiro: Praia da Barra"
+  },
+  {
+    "id": "saf-sao-lourenco-rescue-board",
+    "alt": "A yellow rescue surfboard marked Salvamento Rescue propped on a stand on the sand, with a rocky headland and sea behind",
+    "author": "Timur Seyfelmlyukov",
+    "source": "https://unsplash.com/photos/pHrzX_znWL0",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Mafra: Praia de São Lourenço"
+  },
+  {
+    "id": "saf-algarve-cliffs",
+    "alt": "Golden sandstone sea stacks and eroded cliffs above a calm sea, with wild flowers on the clifftop",
+    "author": "Tabea Schimpf",
+    "source": "https://unsplash.com/photos/W9ZIbpOzcoA",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Algarve: coastal cliffs"
+  },
+  {
+    "id": "saf-valongo-forest",
+    "alt": "A hillside densely covered in evergreen trees beneath a clear blue sky",
+    "author": "Artem Astashov",
+    "source": "https://unsplash.com/photos/ii-X5ulYv_Q",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Valongo: forested hills"
+  }
+]
