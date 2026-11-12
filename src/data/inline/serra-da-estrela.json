@@ -1,0 +1,56 @@
+[
+  {
+    "id": "estrela-plateau",
+    "alt": "Snow-patched high ground with low shrubs in the foreground and layers of hazy blue ridges stretching to the horizon",
+    "author": "André Ferreira",
+    "source": "https://unsplash.com/photos/6aeL0ZUuQL4",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Serra da Estrela: the high plateau in snow"
+  },
+  {
+    "id": "estrela-zezere-river",
+    "alt": "A clear mountain river rushing over mossy granite boulders, with a stone hut, bare birch trees and a steep valley side behind",
+    "author": "Caçador de imagens",
+    "source": "https://commons.wikimedia.org/wiki/File:Vale-glaciar_e_o_rio_Z%C3%AAzere.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "Serra da Estrela: the river Zêzere"
+  },
+  {
+    "id": "estrela-lake",
+    "alt": "A blue lake and winding track in a rocky glacial valley, seen from granite outcrops under a bright sky",
+    "author": "Natanael Vieira",
+    "source": "https://unsplash.com/photos/1aeas_ig5KQ",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Serra da Estrela: lake in a glacial valley"
+  },
+  {
+    "id": "estrela-conchos",
+    "alt": "A round funnel-shaped overflow in a still mountain lake, with granite rocks and shrubs around the water",
+    "author": "Natanael Vieira",
+    "source": "https://unsplash.com/photos/M2QbhbOPbk8",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Serra da Estrela: Covão dos Conchos"
+  },
+  {
+    "id": "estrela-torre-snow",
+    "alt": "Two white towers topped with brown domes standing on snow-covered ground under a hazy winter sun",
+    "author": "André Ferreira",
+    "source": "https://unsplash.com/photos/UJrEQB5RxhM",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Serra da Estrela: the towers at Torre"
+  },
+  {
+    "id": "estrela-cheese",
+    "alt": "A whole round of pale, aged sheep's-milk cheese on a white tablecloth",
+    "author": "Hipersyl",
+    "source": "https://commons.wikimedia.org/wiki/File:Queijo_Serra_da_Estrela_Velho.jpg",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "place": "Serra da Estrela: aged Queijo Serra da Estrela"
+  }
+]

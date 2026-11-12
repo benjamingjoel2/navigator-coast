@@ -1,0 +1,29 @@
+[
+  {
+    "id": "mvv-high-vines",
+    "alt": "A row of bright green vines trained high on wooden posts, with a dark pine wood behind",
+    "author": "Rui Ornelas",
+    "source": "https://commons.wikimedia.org/wiki/File:Beira,_vinho_verde.jpg",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "place": "Vinho Verde region: high-trained vines"
+  },
+  {
+    "id": "mvv-santa-luzia",
+    "alt": "The pale stone front of the Santa Luzia sanctuary, with a large rose window and domed towers against a blue sky",
+    "author": "João Rodrigues",
+    "source": "https://unsplash.com/photos/LKwdPhE8CfY",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Viana do Castelo: Santa Luzia sanctuary"
+  },
+  {
+    "id": "mvv-lima-boat",
+    "alt": "A small wooden boat on the calm, blue River Lima, with an arched stone bridge, a white church and hills in the distance",
+    "author": "Miguel Mota Sousa",
+    "source": "https://unsplash.com/photos/cCVz8RXA6gs",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Ponte de Lima: the River Lima"
+  }
+]

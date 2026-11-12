@@ -1,0 +1,56 @@
+[
+  {
+    "id": "sagres-fortress",
+    "alt": "The low walls of the Fortaleza de Sagres on the headland, with a small lighthouse behind under a grey sky",
+    "author": "Aliaksei Lepik",
+    "source": "https://unsplash.com/photos/N76kR8S8rMs",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Sagres: the fortress"
+  },
+  {
+    "id": "sagres-cape-cliffs",
+    "alt": "The lighthouse and buildings of Cabo de São Vicente on top of sheer cliffs above a dark blue sea",
+    "author": "Reiseuhu",
+    "source": "https://unsplash.com/photos/oacOpkGHz2w",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Cabo de São Vicente: cliffs"
+  },
+  {
+    "id": "sagres-cape-lighthouse",
+    "alt": "The red-topped lighthouse at Cabo de São Vicente above its walls, lit by low sun",
+    "author": "Tobias Pfeifer",
+    "source": "https://unsplash.com/photos/6LTy1SIQbQQ",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Cabo de São Vicente: the lighthouse"
+  },
+  {
+    "id": "sagres-bay",
+    "alt": "A wide green-blue bay below low cliffs near Sagres, with the headland stretching out to sea",
+    "author": "Herman Delgado",
+    "source": "https://unsplash.com/photos/2Z_g2KIdGSM",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Sagres: the bay"
+  },
+  {
+    "id": "sagres-beach-cliffs",
+    "alt": "Pale limestone cliffs above a long sandy beach and calm turquoise sea near Sagres",
+    "author": "Johannes Mändle",
+    "source": "https://unsplash.com/photos/MC87QStoRW8",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Sagres: beach below the cliffs"
+  },
+  {
+    "id": "sagres-headland",
+    "alt": "A scrub-covered headland ending in a sheer cliff above a quiet beach near Sagres",
+    "author": "Johannes Mändle",
+    "source": "https://unsplash.com/photos/__bWDB0JYKQ",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Sagres: headland and beach"
+  }
+]

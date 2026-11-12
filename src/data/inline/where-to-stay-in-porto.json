@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pts-ribeira-from-bridge",
+    "alt": "The Ribeira quayside in Porto with boats on the Douro and colourful houses climbing the hill to large historic buildings at the top",
+    "author": "Evgeni Gitlits",
+    "source": "https://unsplash.com/photos/BD9MkKP5oTI",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Porto: the Ribeira"
+  },
+  {
+    "id": "pts-azulejo-church",
+    "alt": "A church wall covered in ornate blue and white azulejo tiles around tall windows and a wooden door, with a pedestrian passing",
+    "author": "Jure Tufekcic",
+    "source": "https://unsplash.com/photos/9ilgRkQzDBA",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Porto: azulejo church wall"
+  },
+  {
+    "id": "pts-rooftop-window",
+    "alt": "An open white-framed window looking out over a baroque church façade and the rooftops of central Porto",
+    "author": "roya ann miller",
+    "source": "https://unsplash.com/photos/TmB3wiXntxs",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Porto: rooftops from a window"
+  },
+  {
+    "id": "pts-foz-waterfront",
+    "alt": "Waves breaking over dark rocks in front of a stone jetty with a small red-topped lighthouse at Foz do Douro",
+    "author": "Jocelyn Erskine-Kellie",
+    "source": "https://commons.wikimedia.org/wiki/File:Porto,_Foz_do_Douro_(52667959121).jpg",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "place": "Porto: Foz do Douro"
+  },
+  {
+    "id": "pts-gaia-cellars",
+    "alt": "Long rows of large wooden port wine casks stacked in a dim cellar",
+    "author": "Ray in Manila",
+    "source": "https://commons.wikimedia.org/wiki/File:Taylor%E2%80%99s_Port_Wine_Cellar,_Vila_Nova_de_Gaia,_Oporto_(48730636822).jpg",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "place": "Vila Nova de Gaia: port cellar"
+  }
+]

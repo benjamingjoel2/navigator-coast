@@ -1,0 +1,47 @@
+[
+  {
+    "id": "wk1-lisbon-tram",
+    "alt": "A yellow Lisbon tram on a cobbled street climbing past a tall white building, under overhead wires",
+    "author": "Mar Xiao Muñoz",
+    "source": "https://unsplash.com/photos/Zd2NxZK9LfM",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: a tram in the old town"
+  },
+  {
+    "id": "wk1-sintra-pena",
+    "alt": "The red clock tower and yellow walls of Pena Palace in Sintra, seen across a stone terrace with a staircase",
+    "author": "Julia Solonina",
+    "source": "https://unsplash.com/photos/ci19YINguoc",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Sintra: Pena Palace"
+  },
+  {
+    "id": "wk1-belem-tower",
+    "alt": "The stone Belém Tower standing in the Tagus, reached by a wooden walkway, under a pale evening sky",
+    "author": "Lukas Bato",
+    "source": "https://unsplash.com/photos/djtkAFkVcjw",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: Belém Tower"
+  },
+  {
+    "id": "wk1-porto-ribeira",
+    "alt": "The stacked, colourful houses of Porto's Ribeira quarter seen across the calm Douro under a blue sky",
+    "author": "Marco D'Abramo",
+    "source": "https://unsplash.com/photos/rSepq4T-CtA",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Porto: the Ribeira from the river"
+  },
+  {
+    "id": "wk1-porto-dusk",
+    "alt": "The Douro in Porto at sunset, with the lit-up Ribeira waterfront and moored boats beneath the hills",
+    "author": "Diogo Lemos",
+    "source": "https://unsplash.com/photos/DK2Qsl99Khw",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Porto: the Douro at dusk"
+  }
+]
