@@ -6,7 +6,6 @@ import Base from '../../layouts/Base.astro';
 import Card from '../../components/Card.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import PlanBox from '../../components/PlanBox.astro';
-import Sources from '../../components/Sources.astro';
 import { allPosts, postPath, related, type Post } from '../../data/posts';
 import { photoByKey, photoFile } from '../../data/photos';
 import { SITE, categoryByKey, fmtDate, isoDate, readingTime } from '../../data/site';
@@ -77,7 +76,6 @@ const ld = {
           <Content />
         </div>
         <PlanBox slug={post.id} />
-        <Sources sources={d.sources} retrieved={fmtDate(d.updatedDate)} />
       </div>
     </div>
   </article>

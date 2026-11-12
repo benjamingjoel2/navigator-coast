@@ -1,7 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
 import Crumbs from './Crumbs.astro';
-import Sources from './Sources.astro';
 import { SITE, fmtDate } from '../data/site';
 interface Props { title: string; description: string; path: string; section?: string; sources?: { title: string; url: string }[]; type?: string }
 const { title, description, path, section = 'About', sources = [], type = 'WebPage' } = Astro.props;
@@ -31,7 +30,6 @@ const ld = [{
         <dt>Email</dt><dd><a href={`mailto:${SITE.email}`}>{SITE.email}</a></dd>
         <dt>Post</dt><dd>Our postal address is being confirmed. Until it is published here, please write to us by email.</dd>
       </dl>
-      <Sources sources={sources} />
     </div>
   </div>
 </Base>

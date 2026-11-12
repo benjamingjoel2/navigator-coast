@@ -186,11 +186,6 @@ a.pill:hover { background: #333; }
 .plan ul { list-style: none; padding: 0; margin: 16px 0; display: flex; flex-wrap: wrap; gap: 8px; }
 .plan .fine { font-size: 0.8125rem; color: var(--ink-2); margin: 16px 0 0; }
 
-.sources { margin: 48px 0 0; padding-top: 24px; border-top: 1px solid var(--line); }
-.sources h2 { font-size: 1.25rem; }
-.sources ol { padding-left: 1.25em; margin: 0; font-size: 0.9375rem; }
-.sources li { margin-bottom: 10px; overflow-wrap: anywhere; }
-.sources .host { display: block; color: var(--ink-2); font-size: 0.8125rem; }
 .ad-label { display: inline-block; text-transform: uppercase; letter-spacing: 0.14em; font-size: 0.75rem; font-weight: 600; background: var(--cream); color: #111; padding: 4px 10px; }
 
 /* Plain content pages */

@@ -6,7 +6,7 @@ const posts = await allPosts();
 ---
 <Page title="Authors" path="/authors/" description="Who writes Navigator Coast and how each story is researched and checked." type="ProfilePage">
   <h2>{SITE.editor}</h2>
-  <p>Navigator Coast stories are written and edited by the {SITE.editor}, the Tourground editorial desk for Portugal. We publish under the desk's name rather than invented bylines: each story is researched against official sources (tourism boards, the national rail operator, the weather service, park authorities and government travel advice) and checked by a second editor before it goes live.</p>
+  <p>Navigator Coast stories are written and edited by the {SITE.editor}, the Tourground editorial desk for Portugal. We publish under the desk's name rather than invented bylines: each story is researched against official sources (tourism boards, the national rail operator, the weather service, park authorities and government travel advice) before it goes live.</p>
   <p>When we add named writers, each will have a short biography on this page with their connection to Portugal.</p>
   <h2>Stories by the {SITE.editor}</h2>
   <ul>{posts.map((p) => <li><a href={postPath(p)}>{p.data.title}</a></li>)}</ul>
