@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bel-jeronimos-carvings",
+    "alt": "Richly carved limestone columns and arches in warm sunlight at the Jerónimos Monastery",
+    "author": "Simon Infanger",
+    "source": "https://unsplash.com/photos/K_cpBp9EVsk",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: Jerónimos Monastery stonework"
+  },
+  {
+    "id": "bel-jeronimos-garden",
+    "alt": "The pale stone Jerónimos Monastery seen across a lawn, framed by tall dark cypress trees",
+    "author": "Vincent Yap",
+    "source": "https://unsplash.com/photos/7_mt2KNW7ew",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: Jerónimos Monastery from the garden"
+  },
+  {
+    "id": "bel-jeronimos-cloister",
+    "alt": "Two storeys of carved stone arcades around the lawns of the Jerónimos Monastery cloister under a blue sky",
+    "author": "Thay Pellerin",
+    "source": "https://unsplash.com/photos/c8aKLAoLias",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: Jerónimos Monastery cloister"
+  },
+  {
+    "id": "bel-padrao",
+    "alt": "Close view of the carved stone figures on the prow of the Padrão dos Descobrimentos against a deep blue sky",
+    "author": "Greg Rosenke",
+    "source": "https://unsplash.com/photos/Zpm3zz1BJAY",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: Padrão dos Descobrimentos"
+  },
+  {
+    "id": "bel-riverfront",
+    "alt": "The Padrão dos Descobrimentos on the Belém riverfront, with walkers on the promenade, masts in the marina and a red suspension bridge across the Tagus",
+    "author": "Renata Moraes",
+    "source": "https://unsplash.com/photos/qKU-anwJgFA",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: Belém riverfront"
+  }
+]

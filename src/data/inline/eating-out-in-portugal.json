@@ -1,0 +1,47 @@
+[
+  {
+    "id": "dine-majestic",
+    "alt": "The ornate stone façade of the Majestic Café in Porto, with carved cherubs, a gilded name in the arched window and red wooden doors",
+    "author": "Domenico Adornato",
+    "source": "https://unsplash.com/photos/ur0W7u3DWXQ",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Porto: Majestic Café, Rua de Santa Catarina"
+  },
+  {
+    "id": "dine-checked-cloth",
+    "alt": "Upturned glasses and two plates on a red and white checked tablecloth at a pavement table, with cobbles and bollards behind",
+    "author": "Aleksandr Zaitsev",
+    "source": "https://unsplash.com/photos/rFeIoSXa1Uk",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: a pavement table"
+  },
+  {
+    "id": "dine-lisbon-night",
+    "alt": "Restaurant tables with checked cloths set out under lanterns on a cobbled street at night, against a tiled wall hung with decorative plates",
+    "author": "Rohit Tandon",
+    "source": "https://unsplash.com/photos/F4CzaWpnh_Y",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: tables on a cobbled street at night"
+  },
+  {
+    "id": "dine-tiled-terrace",
+    "alt": "A building covered in patterned tiles with wrought-iron balconies, above a café with dark umbrellas and outdoor tables",
+    "author": "Patrik Kovar",
+    "source": "https://unsplash.com/photos/2f92fTP4KWc",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: café under a tiled façade"
+  },
+  {
+    "id": "dine-street-cafe",
+    "alt": "A narrow cobbled street with tiled houses, paper bunting and a large tree shading outdoor café tables",
+    "author": "Artem Astashov",
+    "source": "https://unsplash.com/photos/MiDbbwsYE5c",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: street café"
+  }
+]
