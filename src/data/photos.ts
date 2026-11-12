@@ -18,7 +18,9 @@ export const photoFile = (key: string): ImageMetadata => {
 };
 
 import credits from './photo-credits.json';
-export const PHOTOS: Photo[] = credits as Photo[];
+// New posts keep their hero credit in src/data/heroes/<slug>.json (one object, key = slug).
+const heroFiles = import.meta.glob<{ default: Photo }>('./heroes/*.json', { eager: true });
+export const PHOTOS: Photo[] = [...(credits as Photo[]), ...Object.values(heroFiles).map((m) => m.default)];
 export const photoByKey = (k: string) => {
   const p = PHOTOS.find((x) => x.key === k);
   if (!p) throw new Error(`Missing photo credit ${k}`);

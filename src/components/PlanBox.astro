@@ -1,7 +1,7 @@
 ---
 import { OPERATOR, PLAN_LINKS, SITE } from '../data/site';
-interface Props { slug: string }
-const links = PLAN_LINKS[Astro.props.slug] ?? [];
+interface Props { slug: string; plan?: { label: string; path: string }[] }
+const links = PLAN_LINKS[Astro.props.slug] ?? (Astro.props.plan?.length ? Astro.props.plan : [{ label: 'Plan a stay in Portugal', path: '/plan-my-season' }]);
 ---
 <aside class="plan" aria-labelledby="plan-h">
   <h2 id="plan-h">Plan this trip</h2>

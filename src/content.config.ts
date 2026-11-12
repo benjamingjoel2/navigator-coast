@@ -15,6 +15,8 @@ const posts = defineCollection({
     startHere: z.boolean().default(false),
     // Paid placements must set this; they are labelled "Advertisement feature".
     advertisement: z.boolean().default(false),
+    // Optional Porto Season pages for the Plan this trip box, e.g. [{ label: 'Lisbon', path: '/destinations/lisbon' }]
+    plan: z.array(z.object({ label: z.string(), path: z.string() })).default([]),
     sources: z.array(z.object({ title: z.string(), url: z.string().url() })).default([]),
   }),
 });

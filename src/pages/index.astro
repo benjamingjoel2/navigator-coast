@@ -54,6 +54,16 @@ const ld = [{
     </div>
   </section>
 
+  {CATEGORIES.map((c) => {
+    const inCat = posts.filter((p) => p.id !== featured.id && p.data.categories[0] === c.key).slice(0, 4);
+    return inCat.length >= 2 && (
+      <section class="section wrap" aria-labelledby={`row-${c.key}`}>
+        <div class="section-head"><h2 id={`row-${c.key}`}>{c.name}</h2><a href={c.path}>See all</a></div>
+        <ul class="grid grid-4">{inCat.map((p) => <li><Card post={p} /></li>)}</ul>
+      </section>
+    );
+  })}
+
   <section class="section wrap" aria-labelledby="cat-h">
     <div class="section-head"><h2 id="cat-h">Browse by category</h2></div>
     <ul class="tiles">
