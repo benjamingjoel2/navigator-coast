@@ -1,0 +1,47 @@
+[
+  {
+    "id": "alg-evora-cathedral",
+    "alt": "The stone roof of Évora cathedral, with crenellated parapets leading to a conical, scale-tiled lantern tower under a blue sky",
+    "author": "Jiri Macek",
+    "source": "https://unsplash.com/photos/YftnSHQBqVc",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Évora: cathedral roof"
+  },
+  {
+    "id": "alg-evora-cloister",
+    "alt": "The Gothic cloister of Évora cathedral seen from above, with a green lawn, orange trees and a central well",
+    "author": "Alex",
+    "source": "https://unsplash.com/photos/ctemTUfXScQ",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Évora: cathedral cloister"
+  },
+  {
+    "id": "alg-porto-covo-lighthouse",
+    "alt": "Rocky shore and clear turquoise water, with a red-and-white striped lighthouse on the headland beyond",
+    "author": "Winged Jedi",
+    "source": "https://unsplash.com/photos/9Hm55mkdFds",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Alentejo coast: Porto Covo"
+  },
+  {
+    "id": "alg-porto-covo-coves",
+    "alt": "Aerial view of pale rock stacks and small sandy coves surrounded by green sea and white surf",
+    "author": "Nuno Antunes",
+    "source": "https://unsplash.com/photos/bMCJ570S02Y",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Alentejo coast: Porto Covo from the air"
+  },
+  {
+    "id": "alg-sagres-cliffs",
+    "alt": "Ochre cliffs and rocky headlands above a turquoise sea and a long sandy beach on the coast near Sagres",
+    "author": "Koen Speelman",
+    "source": "https://unsplash.com/photos/b302e8UDgXs",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Algarve: cliffs near Sagres"
+  }
+]

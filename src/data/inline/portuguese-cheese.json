@@ -1,0 +1,56 @@
+[
+  {
+    "id": "chz-serra-da-estrela-winter",
+    "alt": "Snow-dusted mountain slopes in the Serra da Estrela at dusk, with a village in the valley below and dark trees in the foreground",
+    "author": "Francisco de Frias",
+    "source": "https://unsplash.com/photos/jrzqjtuxcAQ",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Serra da Estrela: the mountains in winter"
+  },
+  {
+    "id": "chz-sheep-estremoz",
+    "alt": "A white lamb and a brown sheep lying together on a sunny green hillside with olive trees behind",
+    "author": "Dalila Moreira",
+    "source": "https://unsplash.com/photos/xBmxhTCT9GA",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Alentejo: sheep near Estremoz"
+  },
+  {
+    "id": "chz-sheep-alentejo",
+    "alt": "A woolly sheep wearing a bell on a leather collar, standing on bare dry ground with tree trunks behind",
+    "author": "Filipe Lourenço Marques",
+    "source": "https://unsplash.com/photos/GVQqZKR62KY",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Alentejo: a sheep on summer pasture"
+  },
+  {
+    "id": "chz-alentejo-lone-tree",
+    "alt": "A single spreading tree in the middle of a flat golden field under a deep blue sky",
+    "author": "Bernardo Lorena Ponte",
+    "source": "https://unsplash.com/photos/GcBKr7Nk60w",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Alentejo: the open plain"
+  },
+  {
+    "id": "chz-pico-cows",
+    "alt": "Several cows grazing on a green hillside with the cone of Pico mountain rising beneath clouds in the distance",
+    "author": "Diogo Ferrer",
+    "source": "https://unsplash.com/photos/1ArEXfNGC7M",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Azores: cattle on Pico"
+  },
+  {
+    "id": "chz-sao-jorge-wheel",
+    "alt": "A large whole wheel of yellow São Jorge cheese with its name stamped into the rind, displayed under warm light",
+    "author": "Adriao",
+    "source": "https://commons.wikimedia.org/wiki/File:Queijo_S%C3%A3o_Jorge_inteiro.jpg",
+    "licence": "Public domain",
+    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "place": "Azores: a São Jorge cheese"
+  }
+]

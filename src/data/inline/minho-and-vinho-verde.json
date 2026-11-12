@@ -25,5 +25,23 @@
     "licence": "Unsplash License",
     "licenceUrl": "https://unsplash.com/license",
     "place": "Ponte de Lima: the River Lima"
+  },
+  {
+    "id": "mvv-glass",
+    "alt": "Close-up of a stemmed glass of pale, lightly sparkling white wine, with bubbles clinging to the inside of the glass",
+    "author": "Michael Gaylard",
+    "source": "https://commons.wikimedia.org/wiki/File:Um_copo_de_vinho_verde_por_favor_DSC_0216_(52635371245).jpg",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "place": "Portugal: a glass of vinho verde"
+  },
+  {
+    "id": "mvv-lima-bridge-dusk",
+    "alt": "The arched stone bridge at Ponte de Lima lit up at dusk, with a church tower and hills behind and the lights reflected in the river",
+    "author": "Rui Alves",
+    "source": "https://unsplash.com/photos/MQeRD1WEdrM",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Ponte de Lima: the bridge at dusk"
   }
 ]
