@@ -1,0 +1,56 @@
+[
+  {
+    "id": "batalha-exterior",
+    "alt": "The Gothic Monastery of Batalha in pale limestone, with pinnacles, buttresses and tall traceried windows under a deep blue sky",
+    "author": "Maria da Saudade Paiva",
+    "source": "https://unsplash.com/photos/G4DwlLR3ubI",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Batalha: the monastery"
+  },
+  {
+    "id": "batalha-unfinished-chapels",
+    "alt": "Looking up inside the roofless octagon of the Unfinished Chapels, with richly carved Gothic arches and stumps of pillars against a cloudy blue sky",
+    "author": "Antonio Sessa",
+    "source": "https://unsplash.com/photos/q2Mq-nXRTrU",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Batalha: the Unfinished Chapels"
+  },
+  {
+    "id": "alcobaca-facade",
+    "alt": "The pale stone front of the Monastery of Alcobaça, with twin towers, statues and a rose window above a wide flight of steps",
+    "author": "Francisco Surrador",
+    "source": "https://unsplash.com/photos/SYUD3b7TvmQ",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Alcobaça: the monastery front"
+  },
+  {
+    "id": "alcobaca-cloister",
+    "alt": "A long vaulted cloister walk with paired columns and round windows, lit warmly by the sun",
+    "author": "Luís Feliciano",
+    "source": "https://unsplash.com/photos/_SZBi7iCSu8",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Alcobaça: the cloister"
+  },
+  {
+    "id": "alcobaca-tomb",
+    "alt": "A worn stone sculpture of a crouching hooded figure with a human face beneath the richly carved side of a Gothic tomb",
+    "author": "GFreihalter",
+    "source": "https://commons.wikimedia.org/wiki/File:Alcoba%C3%A7a_Grabmal_In%C3%AAs_de_Castro_537.jpg",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "place": "Alcobaça: tomb of Inês de Castro"
+  },
+  {
+    "id": "alcobaca-windows",
+    "alt": "Pointed stone arches and tall arched windows casting bars of sunlight across a stone floor",
+    "author": "Luís Feliciano",
+    "source": "https://unsplash.com/photos/6bRinCA-cG0",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Alcobaça: windows in the monastery"
+  }
+]
