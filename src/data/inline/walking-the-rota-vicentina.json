@@ -1,0 +1,74 @@
+[
+  {
+    "id": "rv-porto-covo-trail-start",
+    "alt": "A sandy path between rope-and-post fences crossing scrubland towards the sea and a small island",
+    "author": "Jules Verne Times Two",
+    "source": "https://commons.wikimedia.org/wiki/File:Start_of_the_Fishermen%27s_Trail,_Porto_Covo,_Portugal_julesvernex2.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "Porto Covo: start of the Fishermen's Trail"
+  },
+  {
+    "id": "rv-creleizao-panorama",
+    "alt": "Panorama of a sandy track running along flowering cliff tops beside the Atlantic",
+    "author": "Jules Verne Times Two",
+    "source": "https://commons.wikimedia.org/wiki/File:Near_Creleiz%C3%A3o_Beach,_Fishermen%27s_Trail,_Zambujeira_do_Mar,_Portugal_julesvernex2.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "Zambujeira do Mar: the Fishermen's Trail near Creleizão beach"
+  },
+  {
+    "id": "rv-stork-sea-stack",
+    "alt": "A white stork standing on a large nest of sticks on a rocky outcrop above the surf",
+    "author": "Bernd Dittrich",
+    "source": "https://unsplash.com/photos/kCvzhMGW_pU",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Odeceixe: a white stork nesting on the sea cliffs"
+  },
+  {
+    "id": "rv-zambujeira-cliffs",
+    "alt": "Layered schist cliffs dropping into a blue sea, with yellow wildflowers in the foreground",
+    "author": "Bernd Dittrich",
+    "source": "https://unsplash.com/photos/Va4CSHpqf3w",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Zambujeira do Mar: sea cliffs"
+  },
+  {
+    "id": "rv-waymarks-almograve",
+    "alt": "A green and a blue painted stripe on a rock beside a sandy path",
+    "author": "Jules Verne Times Two",
+    "source": "https://commons.wikimedia.org/wiki/File:Green_and_blue_hiking_signs_for_the_Fishermen%27s_Trail,_Almograve,_Portugal_julesvernex2.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "Almograve: Fishermen's Trail waymark"
+  },
+  {
+    "id": "rv-milfontes-aerial",
+    "alt": "Aerial view of a white-walled town above a sandy river beach, with farmland and the Atlantic beyond",
+    "author": "Carlos Lima",
+    "source": "https://unsplash.com/photos/dS05zdkINgA",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Vila Nova de Milfontes from the air"
+  },
+  {
+    "id": "rv-odeceixe-windmill",
+    "alt": "A white windmill with a blue base and wooden sail arms under a dramatic cloudy sky",
+    "author": "Bernd Dittrich",
+    "source": "https://unsplash.com/photos/OK2h2fS1H9A",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Odeceixe: the village windmill"
+  },
+  {
+    "id": "rv-odeceixe-coastal-path",
+    "alt": "A narrow sandy footpath winding through wildflowers along a cliff top",
+    "author": "Bernd Dittrich",
+    "source": "https://unsplash.com/photos/6xDBtYnWDSI",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Odeceixe: coastal footpath"
+  }
+]

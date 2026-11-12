@@ -1,0 +1,83 @@
+[
+  {
+    "id": "eat-francesinha",
+    "alt": "A francesinha sandwich covered in melted cheese and orange-red sauce, surrounded by chips in a ceramic dish",
+    "author": "DgOlsen",
+    "source": "https://commons.wikimedia.org/wiki/File:FrancesinhaNoPorto.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "Porto: a francesinha"
+  },
+  {
+    "id": "eat-perola-do-bolhao",
+    "alt": "An ornate yellow shopfront with painted tiles, arched signs reading Chá and Café, and two large display windows",
+    "author": "mana5280",
+    "source": "https://unsplash.com/photos/QCmgJvegjcc",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Porto: a tiled shopfront near the Bolhão market"
+  },
+  {
+    "id": "eat-porto-rabelo-boats",
+    "alt": "Two traditional wooden rabelo boats moored on the Douro below Port wine lodges and hillside houses in evening sun",
+    "author": "Rich Martello",
+    "source": "https://unsplash.com/photos/LZAQq3QNIa0",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Vila Nova de Gaia: rabelo boats below the Port lodges"
+  },
+  {
+    "id": "eat-nata-tray",
+    "alt": "Rows of custard tarts with flaky pastry and dark caramelised spots on their tops",
+    "author": "ün LIU",
+    "source": "https://unsplash.com/photos/2nACxHzy12Q",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Pastéis de nata"
+  },
+  {
+    "id": "eat-sardines-porto",
+    "alt": "A plate of grilled sardines topped with strips of red pepper, with boiled potatoes, salad and a lemon wedge",
+    "author": "Johan Mouchet",
+    "source": "https://unsplash.com/photos/sxK4YtmLfHI",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Porto: grilled sardines"
+  },
+  {
+    "id": "eat-cataplana-eira",
+    "alt": "An open copper cataplana pan filled with prawns, meat and onions in a tomato broth, with a dish of rice beside it",
+    "author": "michael clarke stuff",
+    "source": "https://commons.wikimedia.org/wiki/File:Eira_do_Mel_Cataplana_01_(3177019170).jpg",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "place": "Algarve: a cataplana"
+  },
+  {
+    "id": "eat-madeira-wine-bottles",
+    "alt": "Black and white photo of two shelves of Madeira wine bottles stencilled with grape varieties and vintage years",
+    "author": "Derek Vander Ark",
+    "source": "https://unsplash.com/photos/WD8Uax7vsSg",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Madeira: vintage Madeira wine"
+  },
+  {
+    "id": "eat-furnas-cozido-pits",
+    "alt": "Round cooking holes in grey volcanic ground beside a wooden boardwalk, with wooden lids leaning nearby",
+    "author": "Luis Andrade Rodrigues",
+    "source": "https://commons.wikimedia.org/wiki/File:Furnas_cozido.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "São Miguel: cozido pits at Lagoa das Furnas"
+  },
+  {
+    "id": "eat-gorreana-tea",
+    "alt": "Rows of clipped green tea bushes running across a hillside under a cloudy sky",
+    "author": "Jules Verne Times Two",
+    "source": "https://commons.wikimedia.org/wiki/File:Gorreana_tea_fields,_S%C3%A3o_Miguel_Island,_Azores,_Portugal_(PPL1-Corrected).jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "São Miguel: Gorreana tea fields"
+  }
+]
