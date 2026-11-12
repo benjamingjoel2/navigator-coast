@@ -1,0 +1,83 @@
+[
+  {
+    "id": "bt-madeira-botanical-garden",
+    "alt": "Purple bougainvillea in the foreground beside patterned beds of red and green plants in the Madeira Botanical Garden, with Funchal's hills behind",
+    "author": "Arnaud Padallé",
+    "source": "https://unsplash.com/photos/wkc6aAElsd4",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Funchal: Madeira Botanical Garden"
+  },
+  {
+    "id": "bt-azores-hydrangea",
+    "alt": "A cream-white hydrangea flower head among large green leaves, with a hazy green coastline and sea behind on São Miguel",
+    "author": "SALEM.",
+    "source": "https://unsplash.com/photos/zGfLCQ5UZWo",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "São Miguel, Azores: hydrangeas"
+  },
+  {
+    "id": "bt-algarve-lagos-cliffs",
+    "alt": "Golden sandstone cliffs and sea stacks around a sandy cove with a few people on the beach near Lagos, with the bay and hills beyond",
+    "author": "Bernd Dittrich",
+    "source": "https://unsplash.com/photos/TLKkaCicpjI",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Algarve: cliffs near Lagos"
+  },
+  {
+    "id": "bt-alentejo-green-field",
+    "alt": "Rolling green and golden pasture dotted with scattered oak trees under a pale sky, with a wire fence in the foreground, in the Alentejo",
+    "author": "Joao",
+    "source": "https://unsplash.com/photos/2FTqzArYfYw",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Alentejo: oak-dotted pasture in spring"
+  },
+  {
+    "id": "bt-almond-blossom",
+    "alt": "Close-up of a fruit tree branch covered in white blossom and fresh leaves against a blue sky",
+    "author": "Rui Alves",
+    "source": "https://unsplash.com/photos/91yQq-Fj6FI",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Portugal: spring blossom in an orchard"
+  },
+  {
+    "id": "bt-lisbon-jacaranda-facade",
+    "alt": "Purple jacaranda flowers in front of a pale modern apartment building in Lisbon under a cloudy blue sky",
+    "author": "Ivan Rohovchenko",
+    "source": "https://unsplash.com/photos/J2hr1JVapjE",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: jacaranda in flower"
+  },
+  {
+    "id": "bt-porto-bridge-night",
+    "alt": "Porto's Ribeira waterfront and hillside lit up at night, reflected in the Douro, with the illuminated iron arch of the Dom Luís I bridge on the right",
+    "author": "Vincent Yap",
+    "source": "https://unsplash.com/photos/4p_BzPvxm0s",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Porto: the Ribeira and Dom Luís I bridge at night"
+  },
+  {
+    "id": "bt-douro-terraces-river",
+    "alt": "Terraced vineyards on steep hillsides around a bend of the Douro, with a small riverside town and a cruise boat below",
+    "author": "Vincent Yap",
+    "source": "https://unsplash.com/photos/x-brufh6bjc",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Douro Valley: vineyard terraces above the river"
+  },
+  {
+    "id": "bt-lisbon-festive-lights",
+    "alt": "Strings of white and green Christmas lights hanging over a street of tall buildings in Lisbon at dusk, with traffic below",
+    "author": "Abigail Ybarra",
+    "source": "https://unsplash.com/photos/viGFzy7D5D8",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: Christmas lights"
+  }
+]

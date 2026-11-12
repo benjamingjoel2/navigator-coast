@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ftg-lisbon-belem-tower",
+    "alt": "The Belém Tower, a carved limestone fortress, standing at the water's edge of the Tagus under a cloudy sky",
+    "author": "Abigail Ybarra",
+    "source": "https://unsplash.com/photos/tPz7mLp8FqA",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: Torre de Belém"
+  },
+  {
+    "id": "ftg-evora-roman-temple",
+    "alt": "Tall fluted granite columns with Corinthian capitals of the Roman temple in Évora, seen from below",
+    "author": "Beatriz Queiroz",
+    "source": "https://unsplash.com/photos/PP2SUFjOoCE",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Évora: Roman temple"
+  },
+  {
+    "id": "ftg-algarve-ponta-da-piedade",
+    "alt": "Golden sandstone cliffs and sea stacks above turquoise water, with small boats offshore, at Ponta da Piedade",
+    "author": "Max Zed",
+    "source": "https://unsplash.com/photos/z09bo9DxJkw",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Algarve: Ponta da Piedade, Lagos"
+  },
+  {
+    "id": "ftg-coimbra-river-sunset",
+    "alt": "Coimbra's old town of pale houses and red roofs rising from the river to the university clock tower in evening light",
+    "author": "Gunjan Paul",
+    "source": "https://unsplash.com/photos/Ty-dX7wGgC4",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Coimbra: old town above the Mondego"
+  },
+  {
+    "id": "ftg-madeira-forest-valley",
+    "alt": "Steep green mountain valleys covered in forest, with mist and sunlight in the distance, on Madeira",
+    "author": "Ivanna Vinnicsuk",
+    "source": "https://unsplash.com/photos/LGJXa_iaNUA",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Madeira: mountain valleys"
+  },
+  {
+    "id": "ftg-azores-sete-cidades-lake",
+    "alt": "White hydrangeas in the foreground above a long green crater lake ringed by forested hills at Sete Cidades",
+    "author": "Artem R",
+    "source": "https://unsplash.com/photos/POKjymSR5ss",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Azores: Sete Cidades, São Miguel"
+  },
+  {
+    "id": "ftg-porto-gaia-waterfront",
+    "alt": "The Vila Nova de Gaia riverfront with port lodges on the hillside and traditional boats moored on the Douro at dusk",
+    "author": "Rui Alves",
+    "source": "https://unsplash.com/photos/8mcqGopTGAc",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Porto: Vila Nova de Gaia waterfront"
+  },
+  {
+    "id": "ftg-porto-livraria-lello",
+    "alt": "Looking down on the curving red staircase and carved wooden bookshelves inside Livraria Lello",
+    "author": "mana5280",
+    "source": "https://unsplash.com/photos/Glf6gBILSXQ",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Porto: Livraria Lello"
+  }
+]
