@@ -1,0 +1,56 @@
+[
+  {
+    "id": "mvc-marvao-keep",
+    "alt": "The square stone keep and round tower of Marvão castle above granite outcrops and a stone path under a deep blue sky",
+    "author": "Winged Jedi",
+    "source": "https://unsplash.com/photos/PM7QIetRPJE",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Marvão: the castle keep"
+  },
+  {
+    "id": "mvc-marvao-walls",
+    "alt": "A curved stone wall and turret of Marvão castle rising from bare rock, with more walls running along the ridge",
+    "author": "Winged Jedi",
+    "source": "https://unsplash.com/photos/O-z9x1ookfg",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Marvão: the castle walls"
+  },
+  {
+    "id": "mvc-ammaia-inscription",
+    "alt": "A weathered stone block carved with a Latin inscription that includes the name of Ammaia",
+    "author": "Carole Raddato",
+    "source": "https://commons.wikimedia.org/wiki/File:Roman_villa_of_Ammaia,_Lusitania,_Portugal_(13823061975).jpg",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "place": "Marvão: Roman Ammaia"
+  },
+  {
+    "id": "mvc-sao-mamede-landscape",
+    "alt": "A stone sentry turret on Marvão's walls at the edge of a rocky drop, overlooking a valley of fields, villages and wooded hills",
+    "author": "Winged Jedi",
+    "source": "https://unsplash.com/photos/3Gy4z33_BEI",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Marvão: view over the Serra de São Mamede"
+  },
+  {
+    "id": "mvc-castelo-de-vide-synagogue",
+    "alt": "A whitewashed medieval building with two pointed stone doorways on a cobbled street in Castelo de Vide",
+    "author": "José Luis Filpo Cabana",
+    "source": "https://commons.wikimedia.org/wiki/File:Sinagoga,_Castelo_de_Vide.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "Castelo de Vide: the synagogue"
+  },
+  {
+    "id": "mvc-castelo-de-vide-fountain",
+    "alt": "A stone fountain under a canopy supported by columns, with a water trough, on a sloping street in Castelo de Vide",
+    "author": "Juanro49",
+    "source": "https://commons.wikimedia.org/wiki/File:Fuente_Castelo_de_Vide.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "Castelo de Vide: a town fountain"
+  }
+]

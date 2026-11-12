@@ -1,0 +1,47 @@
+[
+  {
+    "id": "evo-temple-acropolis",
+    "alt": "Aerial view of the granite columns of Évora's Roman temple on its stone podium in a cobbled square, with whitewashed buildings and trees around it",
+    "author": "Joseolgon",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_%C3%89vora_(1).jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "Évora: the Roman temple"
+  },
+  {
+    "id": "evo-rooftops-view",
+    "alt": "Terracotta rooftops and white houses of Évora stretching towards green plains, framed by old stonework",
+    "author": "Alex",
+    "source": "https://unsplash.com/photos/Bv-Nj9-k2Fc",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Évora: rooftops of the old town"
+  },
+  {
+    "id": "evo-white-lane",
+    "alt": "A quiet whitewashed street in Évora with a stone wall on the right and a pointed stone tower in the distance",
+    "author": "Miriam Pereira",
+    "source": "https://unsplash.com/photos/_NXBZVlXOj0",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Évora: a lane in the historic centre"
+  },
+  {
+    "id": "evo-chapel-of-bones",
+    "alt": "A wall of the Chapel of Bones in Évora lined with skulls and bones, beneath a painted vaulted ceiling",
+    "author": "Ingo Mehling",
+    "source": "https://commons.wikimedia.org/wiki/File:Evora_-_Chapel_of_Bones_-_Right_Wall.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "Évora: the Capela dos Ossos"
+  },
+  {
+    "id": "evo-almendres-cromlech",
+    "alt": "Rounded granite standing stones arranged on sandy ground among oak trees under a blue sky at the Almendres Cromlech",
+    "author": "Vitor Oliveira",
+    "source": "https://commons.wikimedia.org/wiki/File:Cromeleque_dos_Almendres_-_Portugal_(4350453847).jpg",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "place": "Évora: the Almendres Cromlech"
+  }
+]

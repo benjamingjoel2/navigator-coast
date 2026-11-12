@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cas-santa-marta-lighthouse",
+    "alt": "A blue-and-white striped lighthouse and a pink seafront mansion with arched windows on rocks above a turquoise cove, pine trees to the right",
+    "author": "Jeroen den Otter",
+    "source": "https://unsplash.com/photos/q13k3WTW0zk",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Cascais: Santa Marta lighthouse"
+  },
+  {
+    "id": "cas-rainha-beach",
+    "alt": "An empty cove of golden sand with a large rock in the middle, white houses built on the rocks behind and calm water to the left",
+    "author": "CALIN STAN",
+    "source": "https://unsplash.com/photos/EB03DDWxc70",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Cascais: town beach"
+  },
+  {
+    "id": "cas-rock-inlet",
+    "alt": "A narrow channel of clear blue water between two rocky outcrops, with a palm tree above and moored boats in the distance",
+    "author": "Kankan",
+    "source": "https://unsplash.com/photos/Ok4ZbyONunE",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Cascais: rocks by the bay"
+  },
+  {
+    "id": "cas-estoril-castle",
+    "alt": "Low-angle view of a stone building with battlements, a round tower and an arched loggia, framed by palm trees against a blue sky",
+    "author": "Alex Kei",
+    "source": "https://unsplash.com/photos/x2ws9I8UYYY",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Estoril: seafront castle"
+  },
+  {
+    "id": "cas-boca-do-inferno",
+    "alt": "Tall layered limestone cliffs with a dark sea cave at their base, fallen boulders and blue Atlantic water in front",
+    "author": "Jakub Hałun",
+    "source": "https://commons.wikimedia.org/wiki/File:Boca_do_Inferno,_Cascais,_Portugal,_20250606_1734_0366.jpg",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "place": "Cascais: Boca do Inferno"
+  },
+  {
+    "id": "cas-guincho-dusk",
+    "alt": "Long-exposure view of waves washing over sand and a rock in the foreground at sunset, under a deep blue sky",
+    "author": "Manuel Inglez",
+    "source": "https://unsplash.com/photos/M8eCY2GcleI",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Cascais: Praia do Guincho"
+  }
+]

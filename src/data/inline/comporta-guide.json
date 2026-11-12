@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cmp-rice-channel",
+    "alt": "A winding irrigation channel through harvested rice fields, with scrubby dunes and a single umbrella pine on the ridge behind",
+    "author": "Steffen Lemmerzahl",
+    "source": "https://unsplash.com/photos/LF4fT0O4CHI",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Comporta: rice fields"
+  },
+  {
+    "id": "cmp-dunes-sunset",
+    "alt": "The sun setting over low scrub-covered dunes, with distant hills on the horizon",
+    "author": "Patrick Langwallner",
+    "source": "https://unsplash.com/photos/naCqMluzO3g",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Comporta: dunes at sunset"
+  },
+  {
+    "id": "cmp-sado-stakes",
+    "alt": "Wooden stakes and a rough frame standing in shiny estuary mud at low tide, with salt marsh and hills under a golden sky",
+    "author": "Eduardo Goody",
+    "source": "https://unsplash.com/photos/1WDkXykgC3w",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Sado estuary: mudflats at low tide"
+  },
+  {
+    "id": "cmp-beach-surf",
+    "alt": "A clear green wave breaking onto a wide, empty sandy beach under a pale blue sky",
+    "author": "Steffen Lemmerzahl",
+    "source": "https://unsplash.com/photos/cYWjPrbUfSM",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Comporta: the Atlantic beach"
+  }
+]

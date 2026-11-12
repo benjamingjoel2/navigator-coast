@@ -1,0 +1,38 @@
+[
+  {
+    "id": "mon-arch-lane",
+    "alt": "A narrow cobbled lane between high whitewashed walls leading to a stone archway in Monsaraz under a cloudy sky",
+    "author": "Eddie Pipocas",
+    "source": "https://unsplash.com/photos/kn-ZUhJWPUY",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Monsaraz: a lane near the castle"
+  },
+  {
+    "id": "mon-fog-street",
+    "alt": "A cobbled street of whitewashed houses with iron balconies in Monsaraz, with the castle keep faint in morning fog",
+    "author": "Alvesgaspar",
+    "source": "https://commons.wikimedia.org/wiki/File:Monsaraz_January_2020-1.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "Monsaraz: a street in the fog"
+  },
+  {
+    "id": "mon-alqueva-island",
+    "alt": "A small wooded island reflected in the calm, silvery water of the Alqueva reservoir under a pale sky",
+    "author": "Jorge Sardinha",
+    "source": "https://unsplash.com/photos/V3aNFUhx3sU",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Alqueva: an island in the reservoir"
+  },
+  {
+    "id": "mon-night-sky",
+    "alt": "A star-filled night sky with the Milky Way above the silhouettes of oak trees",
+    "author": "Goncalo Verdasca",
+    "source": "https://unsplash.com/photos/tkJztsZAjn8",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Alentejo: stars over the countryside"
+  }
+]

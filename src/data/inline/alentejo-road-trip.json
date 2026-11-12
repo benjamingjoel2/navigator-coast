@@ -27,15 +27,6 @@
     "place": "Vila Viçosa: equestrian statue"
   },
   {
-    "id": "art-monsaraz-arch-lane",
-    "alt": "A steep cobbled lane between high whitewashed walls leading up to a stone archway under a cloudy sky",
-    "author": "Eddie Pipocas",
-    "source": "https://unsplash.com/photos/kn-ZUhJWPUY",
-    "licence": "Unsplash License",
-    "licenceUrl": "https://unsplash.com/license",
-    "place": "Monsaraz: lane to an arch"
-  },
-  {
     "id": "art-monsaraz-street",
     "alt": "A long straight cobbled street lined with low whitewashed houses and plants under a blue sky",
     "author": "Filipe Nobre",
@@ -52,5 +43,14 @@
     "licence": "Unsplash License",
     "licenceUrl": "https://unsplash.com/license",
     "place": "Alqueva: reservoir near Reguengos de Monsaraz"
+  },
+  {
+    "id": "art-alqueva-farmhouse",
+    "alt": "A small farmhouse with a red roof among holm oaks and a bare tree, with flat open country stretching to the horizon under a cloudy sky",
+    "author": "Antonio Vivace",
+    "source": "https://unsplash.com/photos/AfSTmCDV-Kk",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Alqueva: countryside"
   }
 ]
