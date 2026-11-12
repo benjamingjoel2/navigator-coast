@@ -84,8 +84,22 @@ a.pill:hover { background: #333; }
 .hero a { color: #fff; text-decoration: none; }
 .hero p { max-width: 80ch; margin: 0; font-size: 1.0625rem; }
 .hero .meta { margin-top: 14px; font-size: 0.875rem; }
-.hero .credit { position: absolute; right: var(--gutter); bottom: 8px; z-index: 2; font-size: 0.6875rem; opacity: .9; }
-.hero .credit a { text-decoration: underline; }
+.hero-caption { font-size: 0.75rem; color: var(--ink-2); margin: 8px auto 0; text-align: right; }
+.credit-line, .credit-line a { color: var(--ink-2); }
+.credit-line a { text-decoration-color: #b0b0b0; }
+
+/* In-post photography */
+.fig { margin: 40px 0; }
+.fig img { width: 100%; height: auto; display: block; background: var(--mist); }
+.fig figcaption { font-size: 0.8125rem; line-height: 1.45; color: var(--ink-2); margin-top: 8px; display: flex; flex-wrap: wrap; gap: 2px 10px; justify-content: space-between; }
+.fig figcaption .cap { color: var(--ink); font-size: 0.875rem; }
+.fig-wide { margin-inline: calc(50% - min(620px, 50vw - var(--gutter))); }
+.fig-full { margin-inline: calc(50% - 50vw); }
+.fig-full figcaption { padding-inline: var(--gutter); }
+.fig-pair { display: grid; grid-template-columns: 1fr; gap: 16px; margin: 40px calc(50% - min(620px, 50vw - var(--gutter))); }
+.fig-pair .fig { margin: 0; }
+.fig-pair img { aspect-ratio: 4 / 5; object-fit: cover; }
+@media (min-width: 700px) { .fig-pair { grid-template-columns: 1fr 1fr; } }
 
 /* Mission strip */
 .mission { background: var(--mist); text-align: center; padding: 48px 0; }

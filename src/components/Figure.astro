@@ -1,0 +1,13 @@
+---
+import { Image } from 'astro:assets';
+import Credit from './Credit.astro';
+import { inlineById } from '../data/inline';
+interface Props { id: string; caption?: string; size?: 'wide' | 'full' | 'column' }
+const { id, caption, size = 'wide' } = Astro.props;
+const p = inlineById(id);
+const sizes = size === 'full' ? '100vw' : size === 'wide' ? '(min-width: 1280px) 1240px, 100vw' : '(min-width: 1000px) 960px, 100vw';
+---
+<figure class:list={['fig', `fig-${size}`]}>
+  <Image src={p.file} alt={p.alt} widths={[480, 800, 1200, 1800]} sizes={sizes} loading="lazy" />
+  <figcaption>{caption && <span class="cap">{caption}</span>} <Credit {...p} /></figcaption>
+</figure>

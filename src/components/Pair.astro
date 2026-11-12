@@ -1,0 +1,16 @@
+---
+import { Image } from 'astro:assets';
+import Credit from './Credit.astro';
+import { inlineById } from '../data/inline';
+interface Props { a: string; b: string; captionA?: string; captionB?: string }
+const { a, b, captionA, captionB } = Astro.props;
+const items = [[inlineById(a), captionA], [inlineById(b), captionB]] as const;
+---
+<div class="fig-pair">
+  {items.map(([p, cap]) => (
+    <figure class="fig">
+      <Image src={p.file} alt={p.alt} widths={[400, 700, 1000]} sizes="(min-width: 700px) 50vw, 100vw" loading="lazy" />
+      <figcaption>{cap && <span class="cap">{cap}</span>} <Credit {...p} /></figcaption>
+    </figure>
+  ))}
+</div>

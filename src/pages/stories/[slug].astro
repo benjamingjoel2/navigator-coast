@@ -6,6 +6,9 @@ import Base from '../../layouts/Base.astro';
 import Card from '../../components/Card.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import PlanBox from '../../components/PlanBox.astro';
+import Figure from '../../components/Figure.astro';
+import Pair from '../../components/Pair.astro';
+import Credit from '../../components/Credit.astro';
 import { allPosts, postPath, related, type Post } from '../../data/posts';
 import { photoByKey, photoFile } from '../../data/photos';
 import { SITE, categoryByKey, fmtDate, isoDate, readingTime } from '../../data/site';
@@ -62,8 +65,8 @@ const ld = {
           <dt>Reading time</dt><dd>{mins} min read</dd>
         </dl>
       </div>
-      <p class="credit">Photo: {photo.author}, <a href={photo.licenceUrl}>{photo.licence}</a>, <a href={photo.source}>Wikimedia Commons</a></p>
     </header>
+    <p class="wrap hero-caption"><Credit author={photo.author} licence={photo.licence} licenceUrl={photo.licenceUrl} source={photo.source} /></p>
     <div class="wrap">
       <div class="article">
         <ul class="pills" aria-label="Categories">
@@ -73,7 +76,7 @@ const ld = {
           Last updated <time datetime={isoDate(d.updatedDate)}>{fmtDate(d.updatedDate)}</time>. Rules, timetables and opening seasons change: practical facts link their official source, so check it before you book.
         </p>
         <div class="prose">
-          <Content />
+          <Content components={{ Figure, Pair }} />
         </div>
         <PlanBox slug={post.id} />
       </div>

@@ -1,0 +1,6 @@
+---
+interface Props { author: string; licence: string; licenceUrl: string; source: string }
+const { author, licence, licenceUrl, source } = Astro.props;
+const via = source.includes('unsplash.com') ? 'Unsplash' : source.includes('wikimedia.org') ? 'Wikimedia Commons' : 'source';
+---
+<span class="credit-line">Photo: <a href={source}>{author}</a> / {licence.startsWith('Unsplash') ? <a href={licenceUrl}>{via}</a> : <><a href={licenceUrl}>{licence}</a>, {via}</>}</span>

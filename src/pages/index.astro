@@ -3,6 +3,7 @@ import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import Card from '../components/Card.astro';
 import Newsletter from '../components/Newsletter.astro';
+import Credit from '../components/Credit.astro';
 import { allPosts, postPath, START_HERE, FEATURED } from '../data/posts';
 import { photoByKey, photoFile } from '../data/photos';
 import { SITE, CATEGORIES, REGIONS, categoryByKey, fmtDate, isoDate, readingTime } from '../data/site';
@@ -30,8 +31,8 @@ const ld = [{
       <p>{featured.data.description}</p>
       <p class="meta">By {SITE.editor} · <time datetime={isoDate(featured.data.pubDate)}>{fmtDate(featured.data.pubDate)}</time> · {readingTime(featured.body)} min read</p>
     </div>
-    <p class="credit">Photo: {photo.author}, <a href={photo.licenceUrl}>{photo.licence}</a></p>
   </section>
+  <p class="wrap hero-caption"><Credit author={photo.author} licence={photo.licence} licenceUrl={photo.licenceUrl} source={photo.source} /></p>
 
   <section class="mission" aria-label="About Navigator Coast">
     <div class="wrap">
