@@ -1,0 +1,24 @@
+---
+import { Image } from 'astro:assets';
+import { photoFile } from '../data/photos';
+import { categoryByKey, fmtDate, isoDate } from '../data/site';
+import { postPath, type Post } from '../data/posts';
+interface Props { post: Post; headingLevel?: 'h2' | 'h3'; eager?: boolean; showDesc?: boolean }
+const { post, headingLevel = 'h3', eager = false, showDesc = false } = Astro.props;
+const H = headingLevel;
+const d = post.data;
+---
+<article class:list={['card', { ad: d.advertisement }]}>
+  <div class="img">
+    <Image src={photoFile(post.id)} alt="" widths={[400, 640, 900]} sizes="(min-width:1024px) 30vw, (min-width:640px) 45vw, 100vw" loading={eager ? 'eager' : 'lazy'} />
+  </div>
+  <div class="body">
+    {d.advertisement && <span class="ad-label">Advertisement feature</span>}
+    <time datetime={isoDate(d.pubDate)}>{fmtDate(d.pubDate)}</time>
+    <H><a href={postPath(post)}>{d.title}</a></H>
+    {showDesc && <p>{d.description}</p>}
+    <ul class="pills" aria-label="Categories">
+      {d.categories.map((c) => { const cat = categoryByKey(c); return <li><a class="pill" href={cat.path}>{cat.name}</a></li>; })}
+    </ul>
+  </div>
+</article>

@@ -1,0 +1,37 @@
+---
+import Base from '../layouts/Base.astro';
+import Crumbs from './Crumbs.astro';
+import Sources from './Sources.astro';
+import { SITE, fmtDate } from '../data/site';
+interface Props { title: string; description: string; path: string; section?: string; sources?: { title: string; url: string }[]; type?: string }
+const { title, description, path, section = 'About', sources = [], type = 'WebPage' } = Astro.props;
+const url = new URL(path, SITE.url).href;
+const date = new Date(SITE.launched);
+const ld = [{
+  '@type': type, '@id': `${url}#page`, url, name: title, description, inLanguage: 'en-GB',
+  datePublished: SITE.launched, dateModified: SITE.launched,
+  isPartOf: { '@id': `${SITE.url}/#website` }, publisher: { '@id': `${SITE.url}/#publisher` }, breadcrumb: { '@id': `${url}#breadcrumb` },
+}];
+---
+<Base title={title} description={description} path={path} crumbs={[{ name: title, path }]} extraLd={ld}>
+  <header class="page-head">
+    <div class="wrap">
+      <Crumbs items={[{ name: title }]} />
+      <h1>{title}</h1>
+      <p>{description}</p>
+    </div>
+  </header>
+  <div class="wrap">
+    <div class="page">
+      <p class="updated-note">{section} · Published and last reviewed <time datetime={SITE.launched}>{fmtDate(date)}</time> · Edited by the {SITE.editor}, Tourground.</p>
+      <slot />
+      <h2>Contact</h2>
+      <dl>
+        <dt>Publisher</dt><dd>Tourground (<a href={SITE.publisher.url}>tourground.com</a>)</dd>
+        <dt>Email</dt><dd><a href={`mailto:${SITE.email}`}>{SITE.email}</a></dd>
+        <dt>Post</dt><dd>Our postal address is being confirmed. Until it is published here, please write to us by email.</dd>
+      </dl>
+      <Sources sources={sources} />
+    </div>
+  </div>
+</Base>

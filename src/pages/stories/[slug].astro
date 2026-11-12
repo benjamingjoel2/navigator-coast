@@ -1,0 +1,88 @@
+---
+import { Image } from 'astro:assets';
+import { getImage } from 'astro:assets';
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Card from '../../components/Card.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import PlanBox from '../../components/PlanBox.astro';
+import Sources from '../../components/Sources.astro';
+import { allPosts, postPath, related, type Post } from '../../data/posts';
+import { photoByKey, photoFile } from '../../data/photos';
+import { SITE, categoryByKey, fmtDate, isoDate, readingTime } from '../../data/site';
+
+export async function getStaticPaths() {
+  const posts = await allPosts();
+  return posts.map((post) => ({ params: { slug: post.id }, props: { post, posts } }));
+}
+interface Props { post: Post; posts: Post[] }
+const { post, posts } = Astro.props;
+const d = post.data;
+const { Content } = await render(post);
+const mins = readingTime(post.body);
+const cat = categoryByKey(d.categories[0]);
+const photo = photoByKey(post.id);
+const og = await getImage({ src: photoFile(post.id), width: 1200, height: 630, format: 'jpg', fit: 'cover' });
+const path = postPath(post);
+const url = new URL(path, SITE.url).href;
+const rel = related(post, posts);
+const ld = {
+  '@type': 'BlogPosting',
+  '@id': `${url}#article`,
+  headline: d.title,
+  description: d.description,
+  url,
+  mainEntityOfPage: url,
+  image: { '@type': 'ImageObject', url: new URL(og.src, SITE.url).href, width: 1200, height: 630 },
+  datePublished: isoDate(d.pubDate),
+  dateModified: isoDate(d.updatedDate),
+  inLanguage: 'en-GB',
+  wordCount: post.body?.split(/\s+/).filter(Boolean).length,
+  articleSection: cat.name,
+  author: { '@type': 'Organization', name: SITE.editor, url: `${SITE.url}/authors/` },
+  publisher: { '@id': `${SITE.url}/#publisher` },
+  isPartOf: { '@id': `${SITE.url}/#website` },
+  breadcrumb: { '@id': `${url}#breadcrumb` },
+  citation: d.sources.map((s) => s.url),
+  ...(d.advertisement ? { sponsor: { '@id': `${SITE.url}/#publisher` } } : {}),
+};
+---
+<Base title={d.title} description={d.description} path={path} image={og.src} ogType="article" overlayHeader
+  crumbs={[{ name: cat.name, path: cat.path }, { name: d.title, path }]} extraLd={[ld]}>
+  <article>
+    <header class="hero">
+      <Image src={photoFile(post.id)} alt={d.heroAlt} widths={[640, 960, 1400, 2000]} sizes="100vw" loading="eager" fetchpriority="high" />
+      <div class="wrap inner">
+        <Crumbs items={[{ name: cat.name, path: cat.path }, { name: d.title }]} />
+        {d.advertisement && <p><span class="ad-label">Advertisement feature</span></p>}
+        <h1>{d.title}</h1>
+        <p>{d.description}</p>
+        <dl class="article-meta meta">
+          <dt>Author</dt><dd>By <a href="/authors/">{SITE.editor}</a></dd>
+          <dt>Published</dt><dd><time datetime={isoDate(d.pubDate)}>{fmtDate(d.pubDate)}</time></dd>
+          <dt>Reading time</dt><dd>{mins} min read</dd>
+        </dl>
+      </div>
+      <p class="credit">Photo: {photo.author}, <a href={photo.licenceUrl}>{photo.licence}</a>, <a href={photo.source}>Wikimedia Commons</a></p>
+    </header>
+    <div class="wrap">
+      <div class="article">
+        <ul class="pills" aria-label="Categories">
+          {d.categories.map((c) => { const k = categoryByKey(c); return <li><a class="pill" href={k.path}>{k.name}</a></li>; })}
+        </ul>
+        <p class="updated-note" style="margin-top:20px">
+          Last updated <time datetime={isoDate(d.updatedDate)}>{fmtDate(d.updatedDate)}</time>. Rules, timetables and opening seasons change: practical facts link their official source, so check it before you book.
+        </p>
+        <div class="prose">
+          <Content />
+        </div>
+        <PlanBox slug={post.id} />
+        <Sources sources={d.sources} retrieved={fmtDate(d.updatedDate)} />
+      </div>
+    </div>
+  </article>
+  <section class="section wrap" aria-labelledby="rel-h">
+    <div class="section-head"><h2 id="rel-h">Related stories</h2><a href="/stories/">All stories</a></div>
+    <ul class="grid">{rel.map((p) => <li><Card post={p} /></li>)}</ul>
+  </section>
+</Base>

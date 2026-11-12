@@ -1,0 +1,15 @@
+---
+import Page from '../components/Page.astro';
+import { PHOTOS } from '../data/photos';
+---
+<Page title="Photo credits" path="/photo-credits/" description="Every photograph on Navigator Coast, with its author, licence and source on Wikimedia Commons.">
+  <p>We use only photographs that are freely licensed on Wikimedia Commons, shown with their author and licence. We do not use scraped or AI-generated images, or photos where people are the subject. Images have been resized and cropped for the web; no other changes have been made.</p>
+  <table class="credits-table">
+    <thead><tr><th scope="col">Used for</th><th scope="col">Photograph</th><th scope="col">Author</th><th scope="col">Licence</th></tr></thead>
+    <tbody>
+      {PHOTOS.map((p) => (
+        <tr><td>{p.place}</td><td><a href={p.source}>{p.title}</a></td><td>{p.author}</td><td><a href={p.licenceUrl}>{p.licence}</a></td></tr>
+      ))}
+    </tbody>
+  </table>
+</Page>

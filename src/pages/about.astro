@@ -1,0 +1,24 @@
+---
+import Page from '../components/Page.astro';
+import { SITE } from '../data/site';
+---
+<Page title="About Navigator Coast" path="/about/" description="What Navigator Coast is, who publishes it, and how we write and source our stories about Portugal."
+  sources={[{ title: 'Tourground (publisher)', url: 'https://tourground.com/' }]} type="AboutPage">
+  <p>Navigator Coast is a travel blog for people planning a trip to Portugal. We write story-led, practical posts in a warm, first-hand voice: where to go, when to go, what to eat, and how to book safely.</p>
+  <h2>Published by Tourground</h2>
+  <p>Navigator Coast is <strong>published by Tourground</strong> (<a href={SITE.publisher.url}>tourground.com</a>), which works with local travel companies and runs a directory of them. Every post ends with a “Plan this trip” box that points to a local operator listed in the Tourground directory. Our <a href="/disclosure/">disclosure</a> explains the relationship in full.</p>
+  <h2>How we write</h2>
+  <ul>
+    <li><strong>Sourced.</strong> Practical facts, such as timetables, rules, seasons, fees and entry requirements, link their official source inline and are listed under “Sources” at the end of each post.</li>
+    <li><strong>Dated.</strong> Every post shows when it was published and when it was last updated. Rules and timetables change, so check the source before you book.</li>
+    <li><strong>No invented facts.</strong> We do not publish made-up reviews, quotes, prices or statistics. If we cannot source something, we leave it out.</li>
+    <li><strong>No hidden ads.</strong> Paid placements, if we ever run them, are labelled “Advertisement feature” and set apart from editorial content.</li>
+  </ul>
+  <h2>What we do not do</h2>
+  <ul>
+    <li>We do not sell trips, take bookings or handle payments.</li>
+    <li>We do not publish reviews, ratings, rankings or testimonials of hotels, restaurants or companies.</li>
+  </ul>
+  <h2>Corrections</h2>
+  <p>If something on this site is wrong or out of date, email <a href={`mailto:${SITE.email}`}>{SITE.email}</a> with the page address. We correct errors and update the “last updated” date when we do.</p>
+</Page>

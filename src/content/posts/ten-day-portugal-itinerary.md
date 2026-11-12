@@ -1,0 +1,119 @@
+---
+title: "A 10-day Portugal itinerary, Porto to the Algarve"
+description: "Ten days by train from Porto to the Algarve: Douro detour, Coimbra's old university, Lisbon and Sintra, Évora's walled centre, then the southern coast."
+pubDate: 2026-11-11
+updatedDate: 2026-11-11
+categories: [itineraries]
+regions: [porto-douro, centro, lisbon, alentejo, algarve]
+heroAlt: "The granite Corinthian columns of the Roman temple in Évora standing on a stone podium under a clear blue sky"
+sources:
+  - title: "CP: Train timetables PDF"
+    url: "https://cp.pt/info/en/w/trains-timetables-pdf"
+  - title: "CP: Alfa Pendular"
+    url: "https://www.cp.pt/info/en/alfa-pendular-train"
+  - title: "CP: MiraDouro, Porto Régua Pocinho"
+    url: "https://cp.pt/info/en/miradouro-train"
+  - title: "CP: UNESCO heritage, Coimbra"
+    url: "https://cp.pt/info/en/w/coimbra-heritage"
+  - title: "University of Coimbra: Prepare your visit"
+    url: "https://visit.uc.pt/en/info"
+  - title: "Visit Porto: Official tourism website"
+    url: "https://www.visitporto.travel"
+  - title: "Visit Lisboa: Heritage"
+    url: "https://www.visitlisboa.com/en/p/Heritage"
+  - title: "Parques de Sintra"
+    url: "https://www.parquesdesintra.pt/en/"
+  - title: "CP: Take the train to Évora"
+    url: "https://www.cp.pt/info/en/w/alentejo-evora"
+  - title: "Infraestruturas de Portugal: Portugal Tolls"
+    url: "https://www.pttolls.com/"
+  - title: "GOV.UK: Portugal travel advice, entry requirements"
+    url: "https://www.gov.uk/foreign-travel-advice/portugal/entry-requirements"
+  - title: "GOV.UK: Portugal travel advice, safety and security"
+    url: "https://www.gov.uk/foreign-travel-advice/portugal/safety-and-security"
+---
+
+Portugal is a long, narrow country, and that is the whole trick of this itinerary. Start at the top, in granite Porto with its steep streets tumbling to the river, and let the railway carry you south: through the student city of Coimbra, into Lisbon's light and noise, across the cork-oak plains of the Alentejo and down to the Algarve, where the trip ends with your feet in the Atlantic.
+
+Ten days is enough to see the country's great set pieces without feeling hunted by the timetable. It is not enough to see everything, and we have not tried. What follows is the route we would hand a friend making a first visit: mostly by train, with a hire car only where it genuinely helps.
+
+## How this route works
+
+The backbone is Portugal's main north–south rail corridor. CP, the national operator, runs its fast Alfa Pendular and Intercidades services along the Porto–Coimbra–Lisbon axis and on to the Algarve; its [timetable page](https://cp.pt/info/en/w/trains-timetables-pdf) lists the long-distance routes, including Lisbon to Évora, Lisbon and Porto to Lagos and Vila Real de Santo António, and the regional Douro and Sintra lines we use below.
+
+We have deliberately not printed journey times or fares. Both change with the timetable, and CP's own pages are the place to check them. What we will say is that buying early is worth it: CP's [Alfa Pendular page](https://www.cp.pt/info/en/alfa-pendular-train) advertises discounts for booking Alfa Pendular and Intercidades tickets in advance.
+
+| Days | Base | Getting there |
+|---|---|---|
+| 1–3 | Porto (Douro day trip optional) | Arrive by air or rail |
+| 4 | Coimbra | Train from Porto |
+| 5–7 | Lisbon (Sintra day trip) | Train from Coimbra |
+| 8 | Évora | Train from Lisbon |
+| 9–10 | Lagos or Tavira | Car, or train via Lisbon |
+
+## Days 1–3: Porto, and a day on the Douro
+
+Porto rewards slowness. Spend the first day on foot in the old centre, which carries [UNESCO World Heritage status](https://www.visitporto.travel): the Ribeira quayside with its stacked, tiled façades, the cathedral terrace, and São Bento station, whose entrance hall is lined with blue-and-white azulejo panels. Cross the double-decked Dom Luís I bridge to Vila Nova de Gaia in the late afternoon, when the Port lodges along the riverbank catch the last of the sun.
+
+Day two is for the city's other moods: the Bolhão market and Rua de Santa Catarina, the gardens of the Crystal Palace above the river, and a tram or bus out to Foz, where the Douro meets the ocean and the evening air smells of salt and grilled fish. Eat a francesinha once, so you can say you did.
+
+On day three, take the train up the Douro. CP's [MiraDouro service](https://cp.pt/info/en/miradouro-train) runs daily in both directions between Porto São Bento and Régua, Pinhão and Pocinho, using vintage carriages whose windows can be opened along the way. Pinhão is the classic day-trip turnaround: a small riverside town ringed by terraced vineyards. Check the return times before you set out, because you do not want to be choosing between a second glass and the last train back.
+
+If the Douro is a priority rather than an aside, give it its own two or three nights instead; our separate guide covers that in detail.
+
+## Day 4: Coimbra
+
+Take the train south from Porto to Coimbra, a hill city above the Mondego river that has been a university town for more than seven centuries. CP notes that the University of Coimbra, founded in 1290, was named a [UNESCO World Heritage Site in 2013](https://cp.pt/info/en/w/coimbra-heritage) as "Universidade de Coimbra – Alta e Sofia".
+
+The university is the reason to stop. The visit takes in the Joanina Library, Saint Michael's Chapel and the Royal Palace, and the [university's visitor pages](https://visit.uc.pt/en/info) explain that Joanina Library tickets are for a specific date and time slot, so book that first and plan the rest of the day around it. The same page notes the Royal Palace is not recommended for visitors with walking difficulties.
+
+Afterwards, wander down through the Alta's stepped lanes to the lower town, and stay for dinner. Coimbra after dark, with students in black capes and a guitar somewhere in the distance, is a different city from the one the day-trippers see. If your train arrives at a station outside the centre, CP's planner will show the onward connection.
+
+## Days 5–7: Lisbon and Sintra
+
+Continue south by train to Lisbon. Give the first day to the old hill neighbourhoods: Alfama's tangle of lanes below the castle, the viewpoints of Graça, and Baixa's grid of pale stone streets running down to the river at Praça do Comércio. The light here really is different, bouncing off the Tagus and the white limestone pavements.
+
+Spend the second day in Belém, west along the river. Visit Lisboa notes that the Jerónimos Monastery was [proclaimed a UNESCO World Heritage Site in 1983](https://www.visitlisboa.com/en/p/Heritage) and that Belém Tower shares that status. Have a custard tart where they are baked warm, then walk back along the waterfront or take the tram.
+
+On the third day, go to Sintra. The town and its wooded hills are a UNESCO-listed cultural landscape, as [Visit Lisboa's heritage page](https://www.visitlisboa.com/en/p/Heritage) explains, and Sintra-line trains run from Lisbon (the Lisboa–Sintra timetable is on [CP's timetable page](https://cp.pt/info/en/w/trains-timetables-pdf)). Most of the big monuments, including Pena Palace, the Moorish Castle, Monserrate and the National Palace in the town centre, are run by [Parques de Sintra](https://www.parquesdesintra.pt/en/), which sells tickets online. Buy ahead, choose two or three sites rather than five, and start early: the hills are steep and the afternoons get crowded.
+
+## Day 8: Évora and the Alentejo
+
+From Lisbon, the train heads east into the Alentejo, where the landscape opens into rolling wheat fields, olive groves and cork oaks. Évora's historic centre has been a [UNESCO World Heritage Site since 1986](https://www.cp.pt/info/en/w/alentejo-evora), and CP points out that the station is close enough to the centre to walk to Praça do Giraldo, the main square.
+
+Inside the walls, the city is compact and whitewashed, with yellow-trimmed doorways and narrow lanes that funnel you toward the Roman temple and the cathedral. The Chapel of Bones, lined with human skulls and femurs, is unsettling and unforgettable. Stay the night: Évora at dusk, once the coach groups have gone, is quiet in the way only inland Portugal is. Order something slow-cooked, such as pork with clams or a bread-based açorda, with a red from the surrounding vineyards.
+
+## Days 9–10: The Algarve, Lagos or Tavira
+
+This is the one leg where a hire car earns its keep. The rail network is built around Lisbon, so the simplest train option from Évora is to check CP's planner for connections, which may mean heading back towards Lisbon before travelling south. If you would rather not, pick up a car in Évora and drive down through the Alentejo.
+
+Choose your end point by temperament.
+
+- **Lagos**, in the western Algarve, suits walkers and swimmers. The cliffs and sea stacks around Ponta da Piedade are the postcard image of the region, and the old town has enough bars and seafood grills for two easy evenings.
+- **Tavira**, in the east, is calmer: a low town of tiled roofs and church towers on the Gilão river, with sandy island beaches out across the lagoon.
+
+Both are on the Algarve's regional line, which runs between Lagos and Vila Real de Santo António, and CP's long-distance trains from Lisbon and Porto reach the region too; check the [Algarve timetables](https://cp.pt/info/en/w/trains-timetables-pdf) for which services call where. Fly home from Faro, or take the train back to Lisbon.
+
+## If you have a car for part of it
+
+A car is not needed in Porto, Lisbon or Coimbra, and you will regret one in their old centres. It does help in three places: for reaching Douro quintas away from the railway, for the Évora–Algarve leg, and for exploring the Algarve's coves.
+
+Two things to know before you drive. Some Portuguese motorways have electronic-only tolls with no booths, and Infraestruturas de Portugal's [toll site](https://www.pttolls.com/) explains that drivers of foreign-registered vehicles need an active payment method before using them; ask your hire company how its cars are set up. And the UK government's [travel advice](https://www.gov.uk/foreign-travel-advice/portugal/safety-and-security) notes that it is mandatory to carry ID when driving in Portugal.
+
+## Variations for slower travellers
+
+Ten days is brisk. If you have more time, or simply prefer fewer packing sessions, here is where we would stretch.
+
+- **Fourteen days:** add two nights in the Douro valley after Porto, and a third night in the Algarve. The pace changes completely.
+- **Skip Coimbra as a stopover:** make it a half-day break in the journey from Porto to Lisbon instead, then give that night to Lisbon.
+- **Swap Évora for a longer Lisbon:** use the extra day for Cascais or the Arrábida coast, then head straight for the Algarve.
+- **Drop the Algarve entirely in winter:** the beaches will still be there, but a slow Alentejo stay of three nights, with a car, may suit the season better.
+- **Base yourself in two cities only:** stay in Porto and Lisbon, and do the Douro, Coimbra, Sintra and Évora as day trips by train. You lose the evenings in smaller towns but never repack.
+
+## Before you book
+
+- Check your passport against the Schengen rules on the [UK government's entry requirements page](https://www.gov.uk/foreign-travel-advice/portugal/entry-requirements) (or your own government's equivalent), including issue date and expiry date, and read up on the EU Entry/Exit System, which it says is now being implemented.
+- Check times and current fares for each leg on [CP's timetable pages](https://cp.pt/info/en/w/trains-timetables-pdf) once your dates are fixed, and book long-distance trains early for the advance-purchase discounts.
+- Book the Joanina Library slot in Coimbra and your Sintra palace tickets before you leave home.
+- If you are hiring a car for any leg, confirm how tolls are paid and whether one-way drop-off between Évora and the Algarve is possible.
+- Leave one evening in the plan with nothing booked at all. Portugal is very good at filling it for you.

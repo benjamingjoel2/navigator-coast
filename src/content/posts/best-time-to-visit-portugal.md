@@ -1,0 +1,142 @@
+---
+title: "The best time to visit Portugal, month by month"
+description: "When to visit Portugal: weather by region from IPMA climate normals, festival dates for 2027, and how crowds rise and fall through the year, month by month."
+pubDate: 2026-11-11
+updatedDate: 2026-11-11
+categories: [travel-tips]
+regions: [lisbon, porto-douro, alentejo, algarve, centro, madeira, azores]
+heroAlt: "Yellow wildflowers in the foreground and terraced vineyards on the hills of the Douro Valley under a cloudy spring sky"
+sources:
+  - title: "IPMA: Área educativa – Clima de Portugal Continental"
+    url: "https://www.ipma.pt/pt/educativa/tempo.clima/"
+  - title: "IPMA: Climate normal 1991–2020, Lisboa / Instituto Geofísico (PDF)"
+    url: "https://www.ipma.pt/opencms/bin/file.data/climate-normal/cn_91-20_LISBOA_GEOFISICO.pdf"
+  - title: "IPMA: Climate normal 1991–2020, Beja (PDF)"
+    url: "https://www.ipma.pt/opencms/bin/file.data/climate-normal/cn_91-20_BEJA.pdf"
+  - title: "IPMA: Climate normal 1991–2020, Faro (PDF)"
+    url: "https://www.ipma.pt/opencms/bin/file.data/climate-normal/cn_91-20_FARO.pdf"
+  - title: "IPMA: Climate normal 1991–2020, Ponta Delgada (PDF)"
+    url: "https://www.ipma.pt/opencms/bin/file.data/climate-normal/cn_91-20_PONTA_DELGADA_OBSERVATORIO.pdf"
+  - title: "IPMA: Weather warnings"
+    url: "https://www.ipma.pt/en/otempo/prev-sam/"
+  - title: "Visit Madeira: Weather in Madeira"
+    url: "https://www.visitmadeira.com/en/travel-info/useful-information/weather-in-madeira/"
+  - title: "Visit Madeira / Direção Regional do Turismo: Tourist Entertainment Calendar 2026–2029 (PDF)"
+    url: "https://visitmadeira.com/media/1knpekh3/calend%C3%A1rio-de-anima%C3%A7%C3%A3o-turistica_2026-2029_en.pdf"
+  - title: "Visit Lisboa: Festas de Lisboa"
+    url: "https://www.visitlisboa.com/pt-pt/eventos/festas-de-lisboa-1"
+  - title: "Visit Porto: São João Porto programme (PDF)"
+    url: "https://visitporto.travel/storage/01J0BFX0Q5R1YKWADY5Y6FE8BX.pdf"
+  - title: "CP – Comboios de Portugal: Grape harvest festival by train"
+    url: "https://www.cp.pt/info/en/w/grape-harvest-festival"
+  - title: "Turismo Centro de Portugal: Trays' Feast in Tomar"
+    url: "https://www.centerofportugal.com/article/trays-feast-in-tomar"
+---
+
+There is a week in late spring when Portugal seems to get everything right at once. The jacarandas are coming into flower in Lisbon, the Alentejo plains are still green, the Algarve sea glitters but the beaches are half empty, and in Madeira the streets of Funchal are carpeted in petals. Ask us for the single best time to go and that is where we would point you.
+
+But Portugal is more varied than its size suggests. The wet, green north, the baking interior, the sunny south coast and two Atlantic archipelagos each run on their own calendar. Here is how the year unfolds, month by month, with festivals worth planning around.
+
+## The climate in brief
+
+According to the national weather service, IPMA, mainland Portugal has a [temperate climate with rainy winters and dry summers](https://www.ipma.pt/pt/educativa/tempo.clima/), hot in some areas and milder in others. Rainfall is highest in the Minho and the Douro coast, and lowest in the interior of the Baixo Alentejo. Average temperatures are highest on the southern coast.
+
+IPMA's 1991–2020 climate normals put some useful numbers on those patterns. In [Beja](https://www.ipma.pt/opencms/bin/file.data/climate-normal/cn_91-20_BEJA.pdf), in the Alentejo interior, July and August average highs above 33°C. In [Lisbon](https://www.ipma.pt/opencms/bin/file.data/climate-normal/cn_91-20_LISBOA_GEOFISICO.pdf) the August average high is under 29°C, and in [Faro](https://www.ipma.pt/opencms/bin/file.data/climate-normal/cn_91-20_FARO.pdf), on the Algarve coast, January averages a high of around 16°C.
+
+The islands are different again. Visit Madeira describes the archipelago's climate as [mild all year round](https://www.visitmadeira.com/en/travel-info/useful-information/weather-in-madeira/), with average temperatures from about 15°C in winter to 25°C in summer. The Azores are mild too but changeable: IPMA's normals for [Ponta Delgada](https://www.ipma.pt/opencms/bin/file.data/climate-normal/cn_91-20_PONTA_DELGADA_OBSERVATORIO.pdf) show rain falling in every month, including summer.
+
+## January
+
+The quietest month on the mainland, and often one of the wettest. Lisbon is cool and green, with clear, sharp days between fronts; the north is grey and damp, best for cosy taverns and museums. The Algarve is mild enough for coastal walks, and its towns feel lived-in rather than touristy.
+
+Madeira keeps its festive lights burning into the new year: the regional [events calendar](https://visitmadeira.com/media/1knpekh3/calend%C3%A1rio-de-anima%C3%A7%C3%A3o-turistica_2026-2029_en.pdf) has the Christmas exhibits in downtown Funchal running until 9 January 2027.
+
+**Best for:** city breaks without crowds, walking in the Algarve and Madeira.
+
+## February
+
+Still low season, with the first signs of spring in the south. Carnival is the big event. In Madeira, the regional calendar lists the 2027 [Allegoric Carnival Parade](https://visitmadeira.com/media/1knpekh3/calend%C3%A1rio-de-anima%C3%A7%C3%A3o-turistica_2026-2029_en.pdf) on 5 and 6 February. Mainland towns hold their own carnivals too; check the local municipality's programme, as dates and parades vary.
+
+**Best for:** carnival in Funchal, quiet cities, low-season prices.
+
+## March
+
+Days lengthen and the countryside greens up. Rain remains likely in the north and centre, but the south is often bright and pleasant for walking. Easter can fall in March or April, and Portuguese families travel over the Easter school break, so book ahead if your dates overlap.
+
+**Best for:** walking in the Alentejo and Algarve before the heat.
+
+## April
+
+Spring proper. Lisbon and Porto are lovely, if showery, and this is one of the best months for the Alentejo, when the plains are green and the heat is still far off. The Algarve warms up nicely for walking. Madeira's [Flower Festival](https://visitmadeira.com/media/1knpekh3/calend%C3%A1rio-de-anima%C3%A7%C3%A3o-turistica_2026-2029_en.pdf) begins on 29 April 2027.
+
+**Best for:** the Alentejo, city breaks, Madeira gardens.
+
+## May
+
+Our favourite month for most of the country. Rain eases across the mainland, long days arrive, and the summer crowds have not. The Madeira Flower Festival runs to 30 May 2027, with the Great Allegoric Flower Parade on 2 and 16 May, according to the [regional calendar](https://visitmadeira.com/media/1knpekh3/calend%C3%A1rio-de-anima%C3%A7%C3%A3o-turistica_2026-2029_en.pdf). In the Azores, rainfall eases from its winter levels, but pack for rain and wind whatever the forecast says.
+
+**Best for:** almost everything: touring, hiking, the Douro, the Algarve, Madeira.
+
+## June
+
+The festival month. Lisbon's [Festas de Lisboa](https://www.visitlisboa.com/pt-pt/eventos/festas-de-lisboa-1) celebrate Santo António throughout June, with street parties, grilled sardines and caldo verde in Alfama, Bica, Bairro Alto, Castelo and Mouraria, and the competition of neighbourhood marches down Avenida da Liberdade. Visit Lisboa lists the 2027 edition as June, still to be confirmed.
+
+In Porto, São João takes over the night of 23 June. The city's [official programme](https://visitporto.travel/storage/01J0BFX0Q5R1YKWADY5Y6FE8BX.pdf) for a recent edition ran concerts across the city into the early hours, with a pyromusical fireworks show over the Porto and Gaia riversides at midnight. Expect the whole city on the streets, and book well ahead.
+
+Madeira's Atlantic Festival runs from 4 to 27 June 2027, with the International Fireworks Contest on 5, 12, 19 and 26 June, per the [regional calendar](https://visitmadeira.com/media/1knpekh3/calend%C3%A1rio-de-anima%C3%A7%C3%A3o-turistica_2026-2029_en.pdf).
+
+**Best for:** festivals, beaches before peak season, long evenings.
+
+## July
+
+High summer. The Alentejo interior and the Douro Valley are hot, and IPMA's Beja normals show most July days topping 30°C. The coasts are kinder, and the north is at its most pleasant. School holidays across Europe start to fill the Algarve, and prices rise.
+
+In the Centro region, Tomar's Festa dos Tabuleiros, held every four years, returns from [3 to 12 July 2027](https://www.centerofportugal.com/article/trays-feast-in-tomar), when the streets are decorated and tall, ornamented trays are carried in procession.
+
+**Best for:** beaches, the north and the islands, the Tomar festival.
+
+## August
+
+Peak season everywhere. Many Portuguese take their own holidays this month, so beach towns and the Algarve are at their busiest. Heat inland can be intense; this is the month to plan sightseeing early and late, and to check IPMA's [weather warnings](https://www.ipma.pt/en/otempo/prev-sam/) before long drives or hikes.
+
+The Azores and Madeira are at their warmest and most settled, though Azorean weather can still change several times in a day. Madeira's Wine Festival starts on 22 August 2027 and runs to 12 September, according to the [regional calendar](https://visitmadeira.com/media/1knpekh3/calend%C3%A1rio-de-anima%C3%A7%C3%A3o-turistica_2026-2029_en.pdf).
+
+**Best for:** families tied to school holidays, the islands, the Minho coast.
+
+## September
+
+A superb month. Summer weather lingers, the crowds thin once schools return, and the light softens. In the Douro, it is harvest time: CP runs a special [grape harvest train](https://www.cp.pt/info/en/w/grape-harvest-festival) from Porto to Pinhão in September, and the 2027 dates will appear on its site once announced. Vineyard terraces fill with pickers, and the valley smells of crushed grapes.
+
+**Best for:** the Douro, beaches, walking as the heat eases.
+
+## October
+
+The first autumn rains usually return to the north and centre, and IPMA's normals show rainfall climbing sharply from October onwards in [Lisbon](https://www.ipma.pt/opencms/bin/file.data/climate-normal/cn_91-20_LISBOA_GEOFISICO.pdf). But there are plenty of golden days, and the south often stays warm. Madeira's Nature Festival runs from 5 to 10 October 2027, per the [regional calendar](https://visitmadeira.com/media/1knpekh3/calend%C3%A1rio-de-anima%C3%A7%C3%A3o-turistica_2026-2029_en.pdf).
+
+**Best for:** the Algarve and Alentejo, Madeira walking, city breaks.
+
+## November
+
+Low season returns. In IPMA's normals, November is Lisbon's wettest month on average, so pack layers and a waterproof. Chestnut sellers appear on street corners and museum queues vanish. The Algarve remains mild and quiet, a good choice for coastal walking and golf.
+
+**Best for:** quiet cities, value, the south coast.
+
+## December
+
+Short days, festive lights and occasional cold snaps in the north and inland. The mainland cities feel festive rather than touristy. In Madeira, the regional calendar runs Christmas exhibits in downtown Funchal from 1 December and ends the year with a [New Year's Eve firework display](https://visitmadeira.com/media/1knpekh3/calend%C3%A1rio-de-anima%C3%A7%C3%A3o-turistica_2026-2029_en.pdf); the island fills up, so book early if you want to be there.
+
+**Best for:** festive lights, Madeira at New Year.
+
+## A word on the Azores
+
+The Azores deserve their own warning. IPMA's [climate normals for Ponta Delgada](https://www.ipma.pt/opencms/bin/file.data/climate-normal/cn_91-20_PONTA_DELGADA_OBSERVATORIO.pdf) record rain in every month: even July averages a handful of rainy days, while December brings rain on roughly every other day. Temperatures stay moderate year-round, and the same normals show no days at all reaching 30°C on average.
+
+What catches visitors out is the variability. Cloud can sit on a crater rim while the coast below is in sunshine, and a clear morning can turn misty by lunch. Build flexibility into any Azores trip, keep viewpoint visits for the clearest moments, and do not try to cram every island into a short stay.
+
+## Before you book
+
+- Check IPMA's [weather warnings](https://www.ipma.pt/en/otempo/prev-sam/) in the days before you travel, particularly for summer heat inland and winter storms on the coast.
+- Festival dates move each year. Confirm the [Festas de Lisboa](https://www.visitlisboa.com/pt-pt/eventos/festas-de-lisboa-1), São João and Madeira programmes on the official sites before booking around them.
+- July and August, Easter and the June festival weeks are the busiest times. Book accommodation and trains early if you are travelling then.
+- For the Azores, leave buffer days for weather, both for sightseeing and for inter-island flights.
+- In shoulder seasons, pack for both sun and rain: a light waterproof is rarely wasted anywhere in Portugal.

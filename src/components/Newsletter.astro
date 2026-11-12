@@ -1,0 +1,25 @@
+---
+import { SITE } from '../data/site';
+---
+<section class="newsletter" aria-labelledby="nl-h">
+  <div class="wrap box">
+    <h2 id="nl-h">The Navigator Coast letter</h2>
+    <p>New stories and planning notes for Portugal, sent when there is something worth reading. No adverts, and you can leave at any time.</p>
+    <form id="nl-form" action={`mailto:${SITE.email}?subject=Subscribe`} method="post" enctype="text/plain">
+      <label for="nl-email">Your email address</label>
+      <input id="nl-email" name="email" type="email" autocomplete="email" required />
+      <button class="btn" type="submit">Sign up</button>
+    </form>
+    <p class="small">Signing up opens an email to {SITE.email} from your own mail app; we add the address it comes from to our list. See the <a href="/privacy/">privacy policy</a>.</p>
+  </div>
+</section>
+<script>
+  import { SITE } from '../data/site';
+  const f = document.getElementById('nl-form') as HTMLFormElement | null;
+  f?.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const email = (document.getElementById('nl-email') as HTMLInputElement).value.trim();
+    const body = encodeURIComponent(`Please add ${email} to the Navigator Coast letter.`);
+    window.location.href = `mailto:${SITE.email}?subject=${encodeURIComponent('Subscribe to Navigator Coast')}&body=${body}`;
+  });
+</script>

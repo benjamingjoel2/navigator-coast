@@ -1,0 +1,34 @@
+---
+import Base from '../layouts/Base.astro';
+import Card from './Card.astro';
+import Crumbs from './Crumbs.astro';
+import Newsletter from './Newsletter.astro';
+import { postPath, type Post } from '../data/posts';
+import { SITE } from '../data/site';
+interface Props { title: string; intro: string; path: string; posts: Post[]; crumbs: { name: string; path: string }[]; chips?: { name: string; path: string; current?: boolean }[]; chipsLabel?: string }
+const { title, intro, path, posts, crumbs, chips, chipsLabel } = Astro.props;
+const url = new URL(path, SITE.url).href;
+const ld = [{
+  '@type': 'CollectionPage', '@id': `${url}#page`, url, name: title, description: intro,
+  isPartOf: { '@id': `${SITE.url}/#website` }, breadcrumb: { '@id': `${url}#breadcrumb` },
+  mainEntity: { '@type': 'ItemList', itemListElement: posts.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: new URL(postPath(p), SITE.url).href, name: p.data.title })) },
+}];
+---
+<Base title={title} description={intro} path={path} crumbs={crumbs} extraLd={ld}>
+  <header class="page-head">
+    <div class="wrap">
+      <Crumbs items={crumbs} />
+      <h1>{title}</h1>
+      <p>{intro}</p>
+      {chips && <nav aria-label={chipsLabel}><ul class="chips">{chips.map((c) => <li><a href={c.path} aria-current={c.current ? 'page' : undefined}>{c.name}</a></li>)}</ul></nav>}
+    </div>
+  </header>
+  <section class="section wrap" aria-label="Stories">
+    {posts.length ? (
+      <ul class="grid">{posts.map((p, i) => <li><Card post={p} headingLevel="h2" eager={i < 1} showDesc /></li>)}</ul>
+    ) : (
+      <p>No stories here yet. The first is being written; in the meantime, <a href="/stories/">browse every story</a>.</p>
+    )}
+  </section>
+  <Newsletter />
+</Base>
