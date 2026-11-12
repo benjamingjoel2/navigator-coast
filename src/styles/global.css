@@ -17,11 +17,11 @@
   --link: #111;
   --pill: #111;
   --pill-ink: #fff;
-  --max: 1360px;
-  --gutter: 16px;
+  --max: 2000px;
+  --gutter: 12px;
   --font: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
-@media (min-width: 768px) { :root { --gutter: 32px; } }
+@media (min-width: 768px) { :root { --gutter: 20px; } }
 
 *, *::before, *::after { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
@@ -80,16 +80,16 @@ a.pill:hover { background: #333; }
 .hero picture, .hero img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 .hero::after { content: ''; position: absolute; inset: 0; background: linear-gradient(to top, rgba(0,0,0,.78) 0%, rgba(0,0,0,.45) 45%, rgba(0,0,0,.1) 75%); }
 .hero .inner { position: relative; z-index: 1; width: 100%; padding-top: 120px; padding-bottom: 40px; }
-.hero h1, .hero .h1 { font-size: clamp(1.75rem, 4.2vw, 2.75rem); max-width: 22ch; margin: 16px 0 12px; color: #fff; }
+.hero h1, .hero .h1 { font-size: clamp(1.75rem, 4.2vw, 2.75rem); max-width: 32ch; margin: 16px 0 12px; color: #fff; }
 .hero a { color: #fff; text-decoration: none; }
-.hero p { max-width: 60ch; margin: 0; font-size: 1.0625rem; }
+.hero p { max-width: 80ch; margin: 0; font-size: 1.0625rem; }
 .hero .meta { margin-top: 14px; font-size: 0.875rem; }
 .hero .credit { position: absolute; right: var(--gutter); bottom: 8px; z-index: 2; font-size: 0.6875rem; opacity: .9; }
 .hero .credit a { text-decoration: underline; }
 
 /* Mission strip */
 .mission { background: var(--mist); text-align: center; padding: 48px 0; }
-.mission p { font-size: clamp(1.25rem, 2.6vw, 1.75rem); line-height: 1.25; max-width: 30ch; margin: 0 auto 20px; letter-spacing: -0.01em; }
+.mission p { font-size: clamp(1.25rem, 2.6vw, 1.75rem); line-height: 1.25; max-width: 48ch; margin: 0 auto 20px; letter-spacing: -0.01em; }
 .btn { display: inline-block; background: var(--ink); color: #fff; border: 0; border-radius: 999px; padding: 10px 22px; font: inherit; font-size: 0.9375rem; text-decoration: none; cursor: pointer; min-height: 44px; }
 .btn:hover { background: #333; }
 .btn.outline { background: transparent; color: var(--ink); border: 1px solid var(--ink); }
@@ -99,14 +99,15 @@ a.pill:hover { background: #333; }
 .section-head { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; margin-bottom: 20px; }
 .section-head h2 { font-size: clamp(1.75rem, 3.4vw, 2.25rem); margin: 0; }
 .section-head a { font-size: 0.9375rem; white-space: nowrap; }
-.grid { display: grid; gap: 40px 24px; grid-template-columns: 1fr; list-style: none; padding: 0; margin: 0; }
+.grid { display: grid; gap: 32px 16px; grid-template-columns: 1fr; list-style: none; padding: 0; margin: 0; }
 @media (min-width: 640px) { .grid { grid-template-columns: repeat(2, 1fr); } }
 @media (min-width: 1024px) { .grid { grid-template-columns: repeat(3, 1fr); } }
+@media (min-width: 1500px) { .grid { grid-template-columns: repeat(4, 1fr); } }
 .card { position: relative; display: flex; flex-direction: column; }
 .card .img { aspect-ratio: 4 / 3; overflow: hidden; background: var(--mist); }
 .card .img img { width: 100%; height: 100%; object-fit: cover; transition: transform .4s ease; }
 .card:hover .img img { transform: scale(1.03); }
-.card .body { padding: 14px 6px 0; display: flex; flex-direction: column; gap: 8px; }
+.card .body { padding: 12px 0 0; display: flex; flex-direction: column; gap: 8px; }
 .card time, .card .kicker { font-size: 0.875rem; color: var(--ink-2); }
 .card h3 { font-size: 1.25rem; line-height: 1.25; margin: 0; }
 .card h3 a { text-decoration: none; }
@@ -118,7 +119,7 @@ a.pill:hover { background: #333; }
 /* Start here strip */
 .start { background: var(--ink); color: #fff; margin-top: 56px; padding: 40px 0 48px; }
 .start h2 { font-size: clamp(1.5rem, 3vw, 2rem); }
-.start p.lead { color: #e6e6e6; max-width: 60ch; margin: 0 0 24px; }
+.start p.lead { color: #e6e6e6; max-width: 80ch; margin: 0 0 24px; }
 .start ol { list-style: none; counter-reset: s; margin: 0; padding: 0; display: grid; gap: 0; grid-template-columns: 1fr; }
 @media (min-width: 768px) { .start ol { grid-template-columns: repeat(2, 1fr); gap: 0 32px; } }
 @media (min-width: 1100px) { .start ol { grid-template-columns: repeat(4, 1fr); } }
@@ -128,7 +129,7 @@ a.pill:hover { background: #333; }
 .start a:hover { text-decoration: underline; }
 
 /* Category tiles: rounded like Suitcase guide cards, text below, not over image */
-.tiles { display: grid; gap: 16px; grid-template-columns: 1fr; list-style: none; padding: 0; margin: 0; }
+.tiles { display: grid; gap: 12px; grid-template-columns: 1fr; list-style: none; padding: 0; margin: 0; }
 @media (min-width: 640px) { .tiles { grid-template-columns: repeat(2, 1fr); } }
 @media (min-width: 1024px) { .tiles { grid-template-columns: repeat(3, 1fr); } }
 .tile { border: 1px solid var(--line); border-radius: 16px; padding: 20px; position: relative; }
@@ -143,7 +144,7 @@ a.pill:hover { background: #333; }
 
 /* Newsletter */
 .newsletter { background: var(--mist); margin-top: 64px; padding: 48px 0; }
-.newsletter .box { max-width: 640px; margin: 0 auto; text-align: center; }
+.newsletter .box { max-width: 900px; margin: 0 auto; text-align: center; }
 .newsletter h2 { font-size: clamp(1.5rem, 3vw, 2rem); }
 .newsletter p { color: var(--ink-2); }
 .newsletter form { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 16px; }
@@ -154,7 +155,7 @@ a.pill:hover { background: #333; }
 /* Page header (non-hero) */
 .page-head { padding: 40px 0 24px; border-bottom: 1px solid var(--line); }
 .page-head h1 { font-size: clamp(1.875rem, 4vw, 2.5rem); margin: 8px 0 12px; }
-.page-head p { color: var(--ink-2); max-width: 62ch; margin: 0; font-size: 1.0625rem; }
+.page-head p { color: var(--ink-2); max-width: 80ch; margin: 0; font-size: 1.0625rem; }
 .crumbs { font-size: 0.8125rem; color: var(--ink-2); }
 .crumbs ol { list-style: none; display: flex; flex-wrap: wrap; gap: 6px; padding: 0; margin: 0; }
 .crumbs li + li::before { content: '/'; margin-right: 6px; }
@@ -165,7 +166,7 @@ a.pill:hover { background: #333; }
 .article-meta { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 0.875rem; }
 .article-meta dt { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 .article-meta dd { margin: 0; }
-.article { max-width: 700px; margin: 0 auto; padding-top: 32px; }
+.article { max-width: 960px; margin: 0 auto; padding-top: 32px; }
 .prose { font-size: 1.125rem; line-height: 1.7; }
 .prose > p:first-child { font-size: 1.25rem; line-height: 1.55; }
 .prose h2 { font-size: 1.625rem; margin: 2em 0 0.6em; }
@@ -179,7 +180,7 @@ a.pill:hover { background: #333; }
 .prose th { font-weight: 600; }
 .updated-note { background: var(--mist); padding: 14px 16px; font-size: 0.9375rem; margin: 0 0 32px; }
 
-.plan { border: 2px solid var(--ink); border-radius: 16px; padding: 24px; margin: 48px 0 0; }
+.plan { border: 2px solid var(--ink); border-radius: 16px; padding: 20px; margin: 48px 0 0; }
 .plan h2 { font-size: 1.5rem; margin: 0 0 8px; }
 .plan p { margin: 0 0 12px; }
 .plan ul { list-style: none; padding: 0; margin: 16px 0; display: flex; flex-wrap: wrap; gap: 8px; }
@@ -193,7 +194,7 @@ a.pill:hover { background: #333; }
 .ad-label { display: inline-block; text-transform: uppercase; letter-spacing: 0.14em; font-size: 0.75rem; font-weight: 600; background: var(--cream); color: #111; padding: 4px 10px; }
 
 /* Plain content pages */
-.page { max-width: 760px; margin: 0 auto; padding-top: 32px; }
+.page { max-width: 960px; margin: 0 auto; padding-top: 32px; }
 .page h2 { font-size: 1.5rem; margin: 1.8em 0 0.5em; }
 .page p, .page li { font-size: 1.0625rem; }
 .page dl { display: grid; grid-template-columns: max-content 1fr; gap: 6px 16px; }
@@ -212,7 +213,7 @@ a.pill:hover { background: #333; }
 .site-footer h2 { font-size: 0.8125rem; text-transform: uppercase; letter-spacing: 0.14em; color: #cfcfcf; margin: 0 0 12px; }
 .site-footer ul { list-style: none; padding: 0; margin: 0; }
 .site-footer li { margin-bottom: 8px; }
-.site-footer .pub { color: #e6e6e6; max-width: 40ch; }
+.site-footer .pub { color: #e6e6e6; max-width: 60ch; }
 .site-footer .legal { border-top: 1px solid #444; margin-top: 40px; padding-top: 20px; color: #cfcfcf; font-size: 0.8125rem; display: flex; flex-wrap: wrap; gap: 8px 24px; justify-content: space-between; }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
