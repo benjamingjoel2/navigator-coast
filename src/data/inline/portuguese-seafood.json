@@ -25,5 +25,14 @@
     "licence": "Unsplash License",
     "licenceUrl": "https://unsplash.com/license",
     "place": "Algarve: the market at Olhão"
+  },
+  {
+    "id": "sea-cataplana",
+    "alt": "A copper cataplana on a restaurant table with its domed lid lifted to reveal a fish and tomato stew inside",
+    "author": "Franklin Heijnen",
+    "source": "https://commons.wikimedia.org/wiki/File:P2000073_Cataplana_no_Restaurante_Filipe_-_Sesimbra_11092014_(15247938866).jpg",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "place": "Sesimbra: cataplana at the table"
   }
 ]
