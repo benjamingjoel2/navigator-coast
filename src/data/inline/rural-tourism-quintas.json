@@ -1,0 +1,47 @@
+[
+  {
+    "id": "qta-cork-oak",
+    "alt": "A lone cork oak with a spreading green crown standing in a dry, ochre field under a blue sky",
+    "author": "Afonso Vieira",
+    "source": "https://unsplash.com/photos/qbV3xIhSk2Y",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Alentejo: cork oak in the plain"
+  },
+  {
+    "id": "qta-alentejo-village",
+    "alt": "Whitewashed village houses with a terracotta tiled roof and a narrow lane, with open countryside in the distance",
+    "author": "Filipe Nobre",
+    "source": "https://unsplash.com/photos/-QdgvZYETRA",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Alentejo: Monsaraz village street"
+  },
+  {
+    "id": "qta-monsaraz",
+    "alt": "The walls and white bell tower of hilltop Monsaraz seen from below, with red-leaved shrubs in the foreground and a deep blue sky",
+    "author": "Marco Rodrigues",
+    "source": "https://unsplash.com/photos/RGO8hL2arNY",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Alentejo: Monsaraz"
+  },
+  {
+    "id": "qta-douro-riverside",
+    "alt": "A long white estate house on the bank of the Douro river, with terraced vineyards rising on the hill behind",
+    "author": "Artem Astashov",
+    "source": "https://unsplash.com/photos/0a8o4WCNK9g",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Douro: riverside quinta"
+  },
+  {
+    "id": "qta-schist-village",
+    "alt": "A small village of dark stone houses clustered on a steep, wooded mountainside below a high ridge",
+    "author": "Joke Langens",
+    "source": "https://unsplash.com/photos/Nb4_1RAJ98c",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Centro: Piódão"
+  }
+]

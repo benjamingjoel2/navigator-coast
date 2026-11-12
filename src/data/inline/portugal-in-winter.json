@@ -1,0 +1,38 @@
+[
+  {
+    "id": "win-lisbon-rainbow",
+    "alt": "A rainbow arching through dark storm clouds above Lisbon's apartment blocks and rooftops",
+    "author": "Aleksandr Zaitsev",
+    "source": "https://unsplash.com/photos/iYr-Q7l-wqo",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: rainbow over the rooftops"
+  },
+  {
+    "id": "win-lisbon-street",
+    "alt": "A wide Lisbon avenue lined with ornate apartment buildings, the road surface wet after rain under a cloudy sky",
+    "author": "FABIO VILHENA",
+    "source": "https://unsplash.com/photos/KLuUV8fHNAA",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: a wet avenue after rain"
+  },
+  {
+    "id": "win-funchal-tree",
+    "alt": "A tall cone-shaped Christmas tree made of blue, gold and red lights against a black night sky, topped with a star",
+    "author": "Martha Dominguez de Gouveia",
+    "source": "https://unsplash.com/photos/ODRHGcF9llA",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Madeira: festive lights"
+  },
+  {
+    "id": "win-funchal-lights",
+    "alt": "Illuminated festive greetings in several languages above a marina at night, with a moored catamaran in front",
+    "author": "Dimitry B",
+    "source": "https://unsplash.com/photos/90ZDZ8cs4yk",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Funchal: festive lights at Praça da Autonomia"
+  }
+]

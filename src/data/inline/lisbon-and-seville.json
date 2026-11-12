@@ -1,0 +1,38 @@
+[
+  {
+    "id": "lse-giralda-cathedral",
+    "alt": "The Giralda bell tower and the Gothic bulk of Seville Cathedral rising above low rooftops in warm evening light",
+    "author": "Henrique Ferreira",
+    "source": "https://unsplash.com/photos/62QRdDoe44M",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Seville: the Cathedral and the Giralda"
+  },
+  {
+    "id": "lse-alcazar-garden",
+    "alt": "A long rectangular pond edged by hedges and palm trees in the gardens of the Real Alcázar, with an ochre arcaded pavilion behind",
+    "author": "Andrea Huls Pareja",
+    "source": "https://unsplash.com/photos/2EMwCmFOqfY",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Seville: gardens of the Real Alcázar"
+  },
+  {
+    "id": "lse-lisbon-tiles",
+    "alt": "Blue and yellow patterned azulejo tiles on a Lisbon wall, partly broken away to show old brick underneath",
+    "author": "Natalia Y.",
+    "source": "https://unsplash.com/photos/ja7EgogVfIA",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: azulejos on an old wall"
+  },
+  {
+    "id": "lse-alcazar-tiles",
+    "alt": "Close-up of carved plasterwork and blue glazed tilework on a wall inside the Real Alcázar of Seville",
+    "author": "Andrea Huls Pareja",
+    "source": "https://unsplash.com/photos/8B5dLCNQCCA",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Seville: tilework in the Real Alcázar"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "slv-nazare-fort",
+    "alt": "The Fort of São Miguel Arcanjo and its red lighthouse on a headland above a hazy sea and breaking waves at Nazaré",
+    "author": "Frederik Rosar",
+    "source": "https://unsplash.com/photos/77-eLtzBxcI",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Nazaré: the fort above Praia do Norte"
+  },
+  {
+    "id": "slv-berlenga-fort",
+    "alt": "A narrow stone causeway leading across the water to the Fort of São João Baptista on its rocky islet off Berlenga",
+    "author": "Sir. Simo",
+    "source": "https://unsplash.com/photos/zIcWsfFNavw",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Berlenga: the island fort"
+  },
+  {
+    "id": "slv-batalha",
+    "alt": "The ornate Gothic stonework and pinnacles of the Monastery of Batalha under a deep blue sky",
+    "author": "Maria da Saudade Paiva",
+    "source": "https://unsplash.com/photos/G4DwlLR3ubI",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Batalha: the monastery"
+  },
+  {
+    "id": "slv-alcobaca",
+    "alt": "The Baroque west front of the Monastery of Alcobaça with its twin bell towers and rose window, above a wide pale square",
+    "author": "Berthold Werner",
+    "source": "https://commons.wikimedia.org/wiki/File:Alcoba%C3%A7a_BW_2018-10-05_14-09-55.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "Alcobaça: the monastery"
+  }
+]

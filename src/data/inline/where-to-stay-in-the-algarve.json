@@ -1,0 +1,47 @@
+[
+  {
+    "id": "algs-lagos-headland",
+    "alt": "A green clifftop headland with footpaths, ending in golden rock stacks surrounded by blue-green sea",
+    "author": "Colin + Meg",
+    "source": "https://unsplash.com/photos/CQ0jtjiq3FY",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Algarve: Ponta da Piedade, Lagos"
+  },
+  {
+    "id": "algs-west-coast-cliffs",
+    "alt": "Aerial view of a dirt track running along the top of a steep cliff, with deep blue Atlantic waves breaking below",
+    "author": "Geranimo",
+    "source": "https://unsplash.com/photos/akAVu0IN5RY",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Algarve: western clifftops"
+  },
+  {
+    "id": "algs-praia-da-marinha",
+    "alt": "A sandy cove below golden limestone cliffs, with rock stacks standing in calm blue water",
+    "author": "Rebecca Clarke",
+    "source": "https://unsplash.com/photos/G_Qv9T4K4sY",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Algarve: Praia da Marinha"
+  },
+  {
+    "id": "algs-tavira-bridge",
+    "alt": "An old stone arched bridge over a river in Tavira, with white houses and tiled roofs behind in warm evening light",
+    "author": "Richard James",
+    "source": "https://unsplash.com/photos/_ejscbAdF7I",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Algarve: Tavira old bridge"
+  },
+  {
+    "id": "algs-ria-formosa-lighthouse",
+    "alt": "A tall white lighthouse with a red lantern rising above low dune vegetation under a blue sky",
+    "author": "João Barbosa",
+    "source": "https://unsplash.com/photos/Gkuqx78TAtI",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Algarve: Ria Formosa lighthouse"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gb-guimaraes-arcade",
+    "alt": "A vaulted stone passage opening onto a narrow paved street lined with white houses and wrought-iron balconies",
+    "author": "Juan Gomez",
+    "source": "https://unsplash.com/photos/WAk7-GpvvHo",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Guimarães: the old town"
+  },
+  {
+    "id": "gb-castle-keep",
+    "alt": "Crenellated granite walls of a castle with a Portuguese flag flying from the top, under a cloudy sky",
+    "author": "Beatriz Miller",
+    "source": "https://unsplash.com/photos/jeLcriz5nU0",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Guimarães: the castle walls"
+  },
+  {
+    "id": "gb-braga-se",
+    "alt": "The twin-towered granite façade of Braga cathedral at the end of a paved street with café tables and passers-by",
+    "author": "Juan Gomez",
+    "source": "https://unsplash.com/photos/nK_bn3yLepY",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Braga: the Sé"
+  },
+  {
+    "id": "gb-braga-arch",
+    "alt": "A tall Baroque stone arch topped with pinnacles and a statue, spanning a pedestrian street in Braga",
+    "author": "Juan Gomez",
+    "source": "https://unsplash.com/photos/f-Z-PUvqgsw",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Braga: Arco da Porta Nova"
+  },
+  {
+    "id": "gb-bom-jesus-stairway",
+    "alt": "A white zigzag Baroque stairway with statues and a fountain climbing to a twin-towered church among trees",
+    "author": "Krzysztof",
+    "source": "https://unsplash.com/photos/J0oWoao2U-g",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Braga: Bom Jesus do Monte"
+  }
+]
