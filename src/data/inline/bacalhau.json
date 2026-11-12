@@ -1,0 +1,56 @@
+[
+  {
+    "id": "bac-atlantic-cod",
+    "alt": "Black-and-white photo of a live Atlantic cod with speckled skin and a pale lateral line, swimming against a dark background",
+    "author": "Ricardo Resende",
+    "source": "https://unsplash.com/photos/mlzRoZqv_zM",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Atlantic cod"
+  },
+  {
+    "id": "bac-gomes-de-sa",
+    "alt": "A white dish of baked salt cod with potatoes, topped with halved boiled eggs, black olives and parsley, on a woven mat",
+    "author": "David Magalhães",
+    "source": "https://unsplash.com/photos/7AyseGersVI",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Bacalhau à Gomes de Sá"
+  },
+  {
+    "id": "bac-terreiro-do-paco",
+    "alt": "The triumphal arch of Rua Augusta on Lisbon's Terreiro do Paço, with yellow arcaded buildings and a yellow tram passing",
+    "author": "Eduardo Goody",
+    "source": "https://unsplash.com/photos/GM_xE1ga0uU",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: Terreiro do Paço"
+  },
+  {
+    "id": "bac-ilhavo-museum",
+    "alt": "The modern white and grey building of the Museu Marítimo de Ílhavo, with a large ship's anchor displayed on the paved square in front",
+    "author": "69joehawkins",
+    "source": "https://commons.wikimedia.org/wiki/File:MuseuMaritimoIlhavo1.JPG",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "place": "Ílhavo: Museu Marítimo"
+  },
+  {
+    "id": "bac-aveiro-nets",
+    "alt": "Green fishing nets with yellow floats heaped on the deck of a weathered green fishing boat, under a crane arm",
+    "author": "Ricardo Resende",
+    "source": "https://unsplash.com/photos/y0hqnfcM5nE",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Aveiro: fishing nets"
+  },
+  {
+    "id": "bac-aveiro-boats",
+    "alt": "Small white motorboats moored on calm blue water beside a quay, with low buildings and trees on the shore",
+    "author": "Ricardo Resende",
+    "source": "https://unsplash.com/photos/ddSU4rL-lJo",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Aveiro: boats on the water"
+  }
+]
