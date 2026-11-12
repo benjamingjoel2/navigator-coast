@@ -1,0 +1,74 @@
+[
+  {
+    "id": "itin-porto-carmo-tiles",
+    "alt": "A historic facade in Porto covered in blue-and-white hand-painted azulejo tiles, with tall windows and a wooden door",
+    "author": "Yana Marudova",
+    "source": "https://unsplash.com/photos/cpCc3I5Khxc",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Porto: azulejo facade"
+  },
+  {
+    "id": "itin-porto-tiled-church",
+    "alt": "The twin-towered granite facade of the Igreja de Santo Ildefonso in Porto, with blue-and-white tile panels, above a flight of stone steps",
+    "author": "Michael Lammli",
+    "source": "https://unsplash.com/photos/FaukasXYqIY",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Porto: Igreja de Santo Ildefonso"
+  },
+  {
+    "id": "itin-coimbra-university-tower",
+    "alt": "The white clock tower and arcaded buildings around the university courtyard in Coimbra under a deep blue sky",
+    "author": "José Francisco García Cuenca",
+    "source": "https://unsplash.com/photos/y3tvS7uQN7I",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Coimbra: university clock tower"
+  },
+  {
+    "id": "itin-sintra-pena",
+    "alt": "The yellow and grey Pena Palace on a forested hilltop above the plain, seen from a distance in Sintra",
+    "author": "Katia De Juan",
+    "source": "https://unsplash.com/photos/ZQjujHKWcak",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Sintra: Pena Palace on its hilltop"
+  },
+  {
+    "id": "itin-evora-street",
+    "alt": "A narrow cobbled lane of whitewashed houses with yellow trim in Évora, seen through a stone archway",
+    "author": "Miriam Pereira",
+    "source": "https://unsplash.com/photos/zVpaVruMmw0",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Évora: whitewashed lane"
+  },
+  {
+    "id": "itin-evora-chapel-bones",
+    "alt": "Rows of human skulls and bones set into the walls and vault of the Chapel of Bones in Évora",
+    "author": "Portuguese Gravity",
+    "source": "https://unsplash.com/photos/-dGw47Rwhdk",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Évora: Chapel of Bones"
+  },
+  {
+    "id": "itin-lagos-kayaks",
+    "alt": "Kayaks on turquoise water below golden limestone cliffs and sea stacks on the coast at Lagos",
+    "author": "Raphael Assouline",
+    "source": "https://unsplash.com/photos/P1DMeJLEqZE",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lagos: kayaks below the cliffs"
+  },
+  {
+    "id": "itin-lagos-old-town",
+    "alt": "A cobbled pedestrian street in the old town of Lagos at sunset, lined with low buildings, shops and café tables",
+    "author": "Farnaz Kohankhaki",
+    "source": "https://unsplash.com/photos/k78LOXXNlqs",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lagos: old town street at sunset"
+  }
+]
