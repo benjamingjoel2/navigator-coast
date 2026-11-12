@@ -7,5 +7,77 @@
     "licence": "Unsplash License",
     "licenceUrl": "https://unsplash.com/license",
     "place": "Lisbon: a yellow tram"
+  },
+  {
+    "id": "lop-lisbon-rooftops-sunset",
+    "alt": "Terracotta rooftops of central Lisbon in low evening sun, with the walls of São Jorge Castle on the hill behind under a deep blue sky",
+    "author": "Luis",
+    "source": "https://unsplash.com/photos/AbUllFF4mJM",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: rooftops below São Jorge Castle"
+  },
+  {
+    "id": "lop-porto-ribeira-bridge",
+    "alt": "The iron arch of the Dom Luís I bridge at dusk, with a metro train on the upper deck and the Ribeira waterfront and hillside houses of Porto across the Douro",
+    "author": "Diogo Lemos",
+    "source": "https://unsplash.com/photos/Ki37SiJASXQ",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Porto: Dom Luís I bridge and the Ribeira"
+  },
+  {
+    "id": "lop-lisbon-praca-do-comercio",
+    "alt": "Aerial view of Praça do Comércio in Lisbon, with the equestrian statue in the centre, arcaded buildings on each side and sailing boats on the wide Tagus beyond",
+    "author": "HANVIN CHEONG",
+    "source": "https://unsplash.com/photos/MoFg0FWzx_Y",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: Praça do Comércio and the Tagus"
+  },
+  {
+    "id": "lop-sintra-pena-palace",
+    "alt": "The yellow and red towers and grey dome of Pena Palace rising above dense green forest in Sintra",
+    "author": "heino eisner",
+    "source": "https://unsplash.com/photos/tTAWxrVmpDU",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Sintra: Pena Palace"
+  },
+  {
+    "id": "lop-guimaraes-castle",
+    "alt": "The crenellated granite keep and walls of Guimarães Castle above a grassy slope with trees and a footpath",
+    "author": "Wendell Adriel L.S.",
+    "source": "https://unsplash.com/photos/5SBe9zotWy0",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Guimarães: the castle"
+  },
+  {
+    "id": "lop-douro-pinhao-aerial",
+    "alt": "Aerial view of Pinhão, with white houses and orange roofs beside a river inlet with small boats, and terraced slopes of vines and olives rising behind",
+    "author": "Steve Matthews",
+    "source": "https://unsplash.com/photos/NYqTuh8f1Zw",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Douro: Pinhão"
+  },
+  {
+    "id": "lop-lisbon-pasteis-de-nata",
+    "alt": "Rows of custard tarts with scorched tops on a cane rack in a Lisbon pastry shop",
+    "author": "Bernd Dittrich",
+    "source": "https://unsplash.com/photos/09o3XFZoVOg",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: pastéis de nata"
+  },
+  {
+    "id": "lop-gaia-port-barrels",
+    "alt": "Long rows of numbered wooden casks stacked in a dim port wine lodge",
+    "author": "Svetlana Gumerova",
+    "source": "https://unsplash.com/photos/nZVjwM1xWU0",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Vila Nova de Gaia: casks in a port lodge"
   }
 ]
