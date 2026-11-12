@@ -1,0 +1,47 @@
+[
+  {
+    "id": "drv-mondim-mountain-road",
+    "alt": "A white car rounding a bend on a mountain road edged with white stone bollards, under a clear blue sky",
+    "author": "Rui Alves",
+    "source": "https://unsplash.com/photos/IWwX9mnEdzg",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Mondim de Basto: mountain road"
+  },
+  {
+    "id": "drv-vasco-da-gama-bridge",
+    "alt": "The long Vasco da Gama bridge stretching across still water towards the horizon at dawn, under a purple sky",
+    "author": "William Warby",
+    "source": "https://unsplash.com/photos/wwt99cy9jTk",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Lisbon: Vasco da Gama bridge"
+  },
+  {
+    "id": "drv-monchique-road",
+    "alt": "A narrow paved road curving across a brown hillside towards a distant view of the coast",
+    "author": "Filipe Nobre",
+    "source": "https://unsplash.com/photos/JaEd3wfcMWs",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Algarve: road to the Fóia viewpoint, Monchique"
+  },
+  {
+    "id": "drv-alentejo-track",
+    "alt": "A dirt track curving past a cork oak and green shrubs on a misty day",
+    "author": "Luís Alvoeiro Quaresma",
+    "source": "https://unsplash.com/photos/A_7XpKl37Xc",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Alentejo: track under cork oaks"
+  },
+  {
+    "id": "drv-palmela-street",
+    "alt": "A sloping residential street with cars parked on both sides between pastel houses with tiled roofs",
+    "author": "Noelephants Flying",
+    "source": "https://unsplash.com/photos/Ixn7B5SR5u0",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Palmela: residential street"
+  }
+]

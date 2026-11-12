@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tomar-charola",
+    "alt": "A pointed stone arch with carved ribs framing a faded painting of the Resurrection, inside the Charola of the Convent of Christ",
+    "author": "GFreihalter",
+    "source": "https://commons.wikimedia.org/wiki/File:Tomar_Convento_de_Cristo_Charola_750.jpg",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "place": "Tomar: the Charola"
+  },
+  {
+    "id": "tomar-window-detail",
+    "alt": "Carved stone ropes, knotted columns, a coat of arms and the cross of the Order of Christ on a weathered convent wall",
+    "author": "Wendell Adriel L.S.",
+    "source": "https://unsplash.com/photos/5IwTY4PyNKY",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Tomar: Manueline carving, Convent of Christ"
+  },
+  {
+    "id": "tomar-church-portal",
+    "alt": "The top of a stone church façade with crocketed pinnacles, crosses and a carved round window against a grey sky",
+    "author": "Wendell Adriel L.S.",
+    "source": "https://unsplash.com/photos/j8ZvfVsu2kw",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Tomar: the convent church"
+  },
+  {
+    "id": "tomar-cloister",
+    "alt": "A two-storey Renaissance cloister with arches and balustrades around a dark stone fountain, under a blue sky",
+    "author": "Ingo Mehling",
+    "source": "https://commons.wikimedia.org/wiki/File:Convento_de_Cristo_-_Cloister_of_Joao_III.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "Tomar: Cloister of João III"
+  },
+  {
+    "id": "tomar-square",
+    "alt": "A bronze statue on a tall stone plinth in a square paved in black and white, in front of a white town hall, with castle walls on a wooded hill behind",
+    "author": "Ingo Mehling",
+    "source": "https://commons.wikimedia.org/wiki/File:Tomar_-_Praca_da_Republica.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "place": "Tomar: Praça da República"
+  }
+]

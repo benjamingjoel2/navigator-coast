@@ -1,0 +1,38 @@
+[
+  {
+    "id": "drc-rabelo-bridge",
+    "alt": "A dark wooden rabelo boat with barrels on deck moored on the Douro beneath the blue iron arch of the Dom Luís I Bridge, with houses on the hillside behind",
+    "author": "Javier Balseiro",
+    "source": "https://unsplash.com/photos/k_8yj4GOj4U",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Porto: rabelo below the Dom Luís I Bridge"
+  },
+  {
+    "id": "drc-autumn-boat",
+    "alt": "A small boat leaving a wake on the grey Douro, seen from above between steep terraced vineyard slopes in autumn colours",
+    "author": "Tiago Ferreira",
+    "source": "https://unsplash.com/photos/oOgD_o5Ji5w",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Douro Valley: the river in autumn"
+  },
+  {
+    "id": "drc-pinhao-aerial",
+    "alt": "Aerial view of the village of Pinhão with white houses and red roofs beside the river, surrounded by terraced vineyard hills",
+    "author": "Steve Matthews",
+    "source": "https://unsplash.com/photos/qQ7fzbF18M4",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Douro Valley: Pinhão"
+  },
+  {
+    "id": "drc-valley",
+    "alt": "The calm, wide Douro under a clear blue sky, with terraced vineyards on a green hill and the bow of a river cruise ship at the right edge",
+    "author": "Evan Verni",
+    "source": "https://unsplash.com/photos/FFsW_HwnBno",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Douro Valley: the river and terraces"
+  }
+]
