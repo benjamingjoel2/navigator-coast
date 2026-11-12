@@ -1,0 +1,56 @@
+[
+  {
+    "id": "coim-city-view",
+    "alt": "Coimbra's old town on its hill above the Mondego, with green hills and mountains beyond",
+    "author": "Rui Amaro",
+    "source": "https://unsplash.com/photos/Ibpo_75A2-4",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Coimbra: the city above the Mondego"
+  },
+  {
+    "id": "coim-paco-escolas",
+    "alt": "The Paço das Escolas courtyard of the University of Coimbra, with the clock tower on the left and a statue in the foreground",
+    "author": "Miriam Pereira",
+    "source": "https://unsplash.com/photos/uQFnfKPbbd4",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Coimbra: Paço das Escolas"
+  },
+  {
+    "id": "coim-alta-lane",
+    "alt": "A steep, narrow cobbled street between old buildings in Coimbra, with the river visible at the bottom",
+    "author": "Gunjan Paul",
+    "source": "https://unsplash.com/photos/2OIIrCmEdhI",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Coimbra: a lane in the old town"
+  },
+  {
+    "id": "coim-via-latina",
+    "alt": "The colonnaded Via Latina and ornate stone portico on the university courtyard, under a red-tiled roof",
+    "author": "Michael Martinelli",
+    "source": "https://unsplash.com/photos/CIV3eGMmyU4",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Coimbra: the Via Latina"
+  },
+  {
+    "id": "coim-santa-cruz",
+    "alt": "The carved stone façade of the Santa Cruz church in warm evening light, beside pale town houses",
+    "author": "Noelephants Flying",
+    "source": "https://unsplash.com/photos/uIwlObML0xE",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Coimbra: Santa Cruz"
+  },
+  {
+    "id": "coim-mondego-bridge",
+    "alt": "A road bridge across the wide Mondego, with Coimbra's white old town rising on the hill behind",
+    "author": "Antonio Sessa",
+    "source": "https://unsplash.com/photos/HBaWbpV-eKY",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Coimbra: the Mondego and the old town"
+  }
+]

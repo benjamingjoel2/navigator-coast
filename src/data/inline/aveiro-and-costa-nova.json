@@ -1,0 +1,56 @@
+[
+  {
+    "id": "avr-canal-dusk",
+    "alt": "Aveiro's central canal at dusk, with a moored moliceiro boat, trees and a row of lit buildings",
+    "author": "Ricardo Resende",
+    "source": "https://unsplash.com/photos/1HkCrDUVFjQ",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Aveiro: the central canal"
+  },
+  {
+    "id": "avr-moliceiro-prow",
+    "alt": "Close-up of the curved, brightly painted prow of a moliceiro boat on the water in Aveiro",
+    "author": "Onda Colossal",
+    "source": "https://unsplash.com/photos/VKMYXLG2Xp8",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Aveiro: a moliceiro prow"
+  },
+  {
+    "id": "avr-moliceiro-bridge",
+    "alt": "A colourful moliceiro boat with passengers on a canal in Aveiro, framed by trees, with a bridge behind",
+    "author": "Diogo Cardoso",
+    "source": "https://unsplash.com/photos/xY57IQsRI08",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Aveiro: a moliceiro on the canal"
+  },
+  {
+    "id": "avr-costa-nova-row",
+    "alt": "A row of striped wooden houses at Costa Nova in blue, red and yellow under a clear sky",
+    "author": "WONSUNG JANG",
+    "source": "https://unsplash.com/photos/UxHZkvxzHDs",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Costa Nova: the striped houses"
+  },
+  {
+    "id": "avr-costa-nova-door",
+    "alt": "A dark wooden door between yellow-and-white and red-and-white striped house fronts at Costa Nova",
+    "author": "Antonio Sessa",
+    "source": "https://unsplash.com/photos/lkMtEJf84NQ",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Costa Nova: a doorway"
+  },
+  {
+    "id": "avr-costa-nova-stripes",
+    "alt": "Two neighbouring Costa Nova houses, one with yellow stripes and one with navy stripes",
+    "author": "Antonio Sessa",
+    "source": "https://unsplash.com/photos/BUeujJdsy9M",
+    "licence": "Unsplash License",
+    "licenceUrl": "https://unsplash.com/license",
+    "place": "Costa Nova: yellow and blue stripes"
+  }
+]
